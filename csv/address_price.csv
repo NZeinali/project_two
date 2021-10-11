@@ -65,7 +65,6 @@ ADDRESS,PRICE
 "1 Bull Place, Queens Park",387000
 "1 Bynder Lane, Medina",330000
 "1 Cadiz Way, Bullsbrook",380000
-"1 Caladenia Way, Koongamia",85000
 "1 Cam Court, Merriwa",345000
 "1 Camden Boulevard, Aubin Grove",528000
 "1 Cameron Street, Karrinyup",1350000
@@ -175,7 +174,6 @@ ADDRESS,PRICE
 "1 Fortune Street, Balcatta",460000
 "1 Fourth Avenue, Rossmoyne",872000
 "1 Fran Court, Merriwa",335000
-"1 Frederic Street, Koongamia",83000
 "1 Freedman Road, Menora",925000
 "1 Gaffin Way, Kwinana Town Centre",330000
 "1 Gali Lane, City Beach",1930000
@@ -763,7 +761,6 @@ ADDRESS,PRICE
 "10 Bahama Way, Banksia Grove",350000
 "10 Ballymote Gardens, Ridgewood",291000
 "10 Banchory Way, The Vines",610000
-"10 Banjine Road, Koongamia",160000
 "10 Banksia Court, Bullsbrook",370000
 "10 Barcelona Terrace, Hocking",539000
 "10 Barcroft Court, Atwell",395000
@@ -1181,7 +1178,6 @@ ADDRESS,PRICE
 "10 Manyleaf Link, Banksia Grove",340000
 "10 Mapleton Street, Stirling",937000
 "10 Mardella Street, Coolbinia",920000
-"10 Mardja Loop, Mardella",87140
 "10 Marengo Close, Aveley",512000
 "10 Marie Court, Atwell",525000
 "10 Marigold Place, Yangebup",455000
@@ -1782,7 +1778,6 @@ ADDRESS,PRICE
 "108 St Andrews Drive, Yanchep",259000
 "108 Stoneham Road, Attadale",1885000
 "108 The Boulevard, Floreat",1710000
-"1085 Coulston Road, Boya",180000
 "109 Ardleigh Crescent, Hamersley",545000
 "109 Arnott Street, Trigg",820000
 "109 Balladong Loop, Carramar",472800
@@ -1809,7 +1804,6 @@ ADDRESS,PRICE
 "109 Vincent Road, Sinagra",521000
 "109 Welwyn Avenue, Salter Point",1400000
 "109 Winterfold Road, Coolbellup",660000
-"109 Wright Road, Mardella",85420
 "1095 Coulston Road, Boya",415000
 "109A Moreing Road, Attadale",1237000
 "109A Raleigh Street, Carlisle",450000
@@ -2056,7 +2050,6 @@ ADDRESS,PRICE
 "11 Council Road, Mundaring",425000
 "11 Cowlishaw Rise, Parmelia",265000
 "11 Crampton Elbow, Murdoch",650000
-"11 Craven Road, Mahogany Creek",90000
 "11 Creaton Street, East Victoria Park",600000
 "11 Crete Way, Alkimos",410000
 "11 Criterium Place, Middle Swan",370000
@@ -2309,7 +2302,6 @@ ADDRESS,PRICE
 "11 Manor Gardens, High Wycombe",460000
 "11 Mansfield Way, Piara Waters",630000
 "11 Manta Pass, Mindarie",750000
-"11 Margaret Terrace, Walliston",200000
 "11 Marginata Close, Jane Brook",495000
 "11 Marion Way, Gooseberry Hill",865000
 "11 Marjorie Street, Mullaloo",1200000
@@ -2715,7 +2707,6 @@ ADDRESS,PRICE
 "111 Stubbs Terrace, Daglish",1080000
 "111 Tangadee Road, Golden Bay",335000
 "111 Willmott Drive, Cooloongup",270000
-"111 Wright Road, Mardella",125000
 "1115 Katharine Street, Bellevue",368000
 "111A Drummond Street, Bedford",570000
 "111A Hampton Road, South Fremantle",755000
@@ -2909,7 +2900,6 @@ ADDRESS,PRICE
 "118 Naturaliste Boulevard, Iluka",670000
 "118 PANNAGE Way, Brabham",450000
 "118 Paramatta Road, Doubleview",1375000
-"118 Paterson Street, Mundijong",102000
 "118 Rosalie Street, Shenton Park",980000
 "118 Scott Street, Boya",540000
 "118 The Broadview, Landsdale",480000
@@ -3107,7 +3097,6 @@ ADDRESS,PRICE
 "12 Burnettia Lane, Mount Claremont",1077000
 "12 Bursaria Crescent, Ferndale",500000
 "12 Cabernet Loop, Pearsall",370000
-"12 Caladenia Road, Walliston",162000
 "12 Caladenia Way, Koongamia",320000
 "12 Calendia Way, Dayton",479000
 "12 Callistemon Close, Helena Valley",585000
@@ -3239,7 +3228,6 @@ ADDRESS,PRICE
 "12 Ellesmere Road, Mount Lawley",1280000
 "12 Elm Close, Camillo",325000
 "12 Elstree Avenue, Menora",1800000
-"12 Eric Street, Hazelmere",172000
 "12 Ezekiel Avenue, Canning Vale",560000
 "12 Falkner Road, Harrisdale",525000
 "12 Fennell Rise, Darch",525000
@@ -3413,7 +3401,6 @@ ADDRESS,PRICE
 "12 Lombardy Street, Woodlands",920000
 "12 Longwood Bend, Aubin Grove",700000
 "12 Lookout Vista, Singleton",425500
-"12 Lowan Loop, Karawara",550000
 "12 Lucraft Gardens, Winthrop",890000
 "12 Lutey Avenue, Daglish",1075000
 "12 Lynn Street, Trigg",2360000
@@ -3435,7 +3422,6 @@ ADDRESS,PRICE
 "12 Marchamley Street, Carlisle",810000
 "12 Mardella Street, Coolbinia",2225000
 "12 Mardja Loop, Mardella",590000
-"12 Margaret Terrace, Walliston",115000
 "12 Marloo Street, Wattle Grove",440000
 "12 Marraboor Place, Success",650000
 "12 Marsengo Road, Bateman",880000
@@ -3721,6 +3707,7 @@ ADDRESS,PRICE
 "120 Cockman Cross, Stratton",315000
 "120 Drabble Road, City Beach",1275000
 "120 Glen Iris Drive, Jandakot",900000
+"120 Hardey Road, Glen Forrest",565000
 "120 Herbert Road, Shenton Park",870000
 "120 Hill View Terrace, St James",656000
 "120 Hinchinbrook Avenue, Ridgewood",312000
@@ -3853,7 +3840,6 @@ ADDRESS,PRICE
 "125 Stock Road, Attadale",675000
 "125 Tapping Way, Quinns Rocks",395000
 "125 Waddington Crescent, Koondoola",360000
-"125 Wright Road, Mardella",85420
 "1250 Cook Street, Mount Helena",540000
 "125A Shakespeare Street, Mount Hawthorn",1185000
 "125A Stock Road, Attadale",800000
@@ -3914,7 +3900,6 @@ ADDRESS,PRICE
 "128 Mirrabooka Avenue, Koondoola",405000
 "128 Mullaloo Drive, Kallaroo",565000
 "128 Samson Street, White Gum Valley",1050000
-"128 Scott Street, Boya",115000
 "128 Shakespeare Street, Mount Hawthorn",960000
 "128 Willespie Drive, Pearsall",410000
 "128 Yangebup Road, Yangebup",500000
@@ -4026,7 +4011,6 @@ ADDRESS,PRICE
 "13 Bedford Road, Ardross",1375000
 "13 Belmont Close, Port Kennedy",320000
 "13 Benjafield Way, Hamersley",620000
-"13 Beor Way, Herne Hill",159000
 "13 Berkeley Way, Orelia",360000
 "13 Biarritz Pass, Port Kennedy",550000
 "13 Bilcich Gardens, Spearwood",450000
@@ -4096,7 +4080,6 @@ ADDRESS,PRICE
 "13 Darius Drive, Kwinana Town Centre",151600
 "13 Darter Way, Maida Vale",760000
 "13 Davallia Road, Duncraig",585000
-"13 Davey Road, Mundijong",165000
 "13 Dawn Road, Walliston",600000
 "13 Dean Place, Lockridge",280000
 "13 Debutante Close, Huntingdale",331000
@@ -4172,7 +4155,6 @@ ADDRESS,PRICE
 "13 Honeypot Way, Churchlands",1600000
 "13 Hope Avenue, Salter Point",1450000
 "13 Horner Way, Herne Hill",377000
-"13 Hovea Crescent, Walliston",279000
 "13 Hoyle Road, Medina",240000
 "13 Hubert Street, Guildford",795000
 "13 Hurstford Close, Peppermint Grove",1000000
@@ -4491,7 +4473,6 @@ ADDRESS,PRICE
 "132 Newborough Street, Karrinyup",955000
 "132 Orchid Avenue, Bennett Springs",535000
 "132 Osmaston Road, Carine",493000
-"132 Paterson Street, Mundijong",140000
 "132 San Sebastian Boulevard, Port Kennedy",315000
 "132 Santa Barbara Parade, Quinns Rocks",535000
 "132 SHREEVE ROAD, Canning Vale",582500
@@ -5007,7 +4988,6 @@ ADDRESS,PRICE
 "14 Marble Boulevard, Wellard",348000
 "14 Marchamley Place, Carlisle",670000
 "14 Marden Grange, Aveley",350000
-"14 Mardja Loop, Mardella",77000
 "14 Market Street, Guildford",1150000
 "14 Marr Street, Myaree",740000
 "14 Marra Mews, Jane Brook",460000
@@ -5015,6 +4995,7 @@ ADDRESS,PRICE
 "14 Marriot Turn, Currambine",517500
 "14 Marriott Road, Boya",450000
 "14 Marshall Way, Samson",585000
+"14 Massey Turn, Mundaring",610000
 "14 Mathieson Avenue, Mosman Park",2350000
 "14 Matta Way, Pearsall",620000
 "14 Mayfair Street, Mount Claremont",906000
@@ -5240,7 +5221,6 @@ ADDRESS,PRICE
 "14 Waterton Way, Cooloongup",255000
 "14 Waterview Drive, Woodvale",625000
 "14 Waterview Grove, Ellenbrook",500000
-"14 Wattle Court, Mahogany Creek",184000
 "14 Waugh Street, North Perth",1306000
 "14 Waverley Way, Parkwood",620000
 "14 Wendo Court, Hillman",282500
@@ -5293,7 +5273,6 @@ ADDRESS,PRICE
 "140 High Road, Riverton",652000
 "140 Jersey Street, Jolimont",1375000
 "140 Lakeside Drive, Helena Valley",675000
-"140 Lance Street, Sawyers Valley",95000
 "140 Lansdowne Road, Kensington",1101000
 "140 McNeill Road, Champion Lakes",750000
 "140 Medina Avenue, Medina",225000
@@ -5512,8 +5491,6 @@ ADDRESS,PRICE
 "15 Amethyst Approach, Wellard",375000
 "15 Andell Place, Redcliffe",374000
 "15 Anderton Retreat, Murdoch",830000
-"15 Anne Avenue, Walliston",250000
-"15 Approach Road, Boya",157000
 "15 Arabella Mews, Currambine",460000
 "15 Ardross Crescent, Coolbinia",810000
 "15 Argosy Place, Morley",535000
@@ -5526,7 +5503,6 @@ ADDRESS,PRICE
 "15 Austin Street, Shenton Park",1825000
 "15 Autumn Crescent, Thornlie",430000
 "15 Bacchante Circle, Ocean Reef",718000
-"15 Baden Road, Bickley",173000
 "15 Badrick Street, Warwick",620000
 "15 Balfour Street, Huntingdale",315000
 "15 Balista Street, Riverton",728000
@@ -5611,7 +5587,6 @@ ADDRESS,PRICE
 "15 CHAMBERLAIN PLACE, Heathridge",472000
 "15 Charing Cross Road, Joondalup",560000
 "15 Chatham Way, Harrisdale",540000
-"15 Christina Street, Hazelmere",95000
 "15 Chudleigh Street, Fremantle",650000
 "15 Citrus Loop, South Lake",299000
 "15 Clarecastle Retreat, Mindarie",2400000
@@ -5679,7 +5654,6 @@ ADDRESS,PRICE
 "15 Dulverton Close, Stratton",267000
 "15 Dulwich Place, Kingsley",500000
 "15 Dumbarton Crescent, Menora",975000
-"15 Duncan Place, Mahogany Creek",110000
 "15 Dunsfold Street, Butler",450000
 "15 Dunster Way, Orelia",282500
 "15 Eaglemont Drive, Swan View",615000
@@ -5802,7 +5776,6 @@ ADDRESS,PRICE
 "15 Jackadder Avenue, Hammond Park",450000
 "15 Jackson Road, Karawara",555468
 "15 James Street, Guildford",510000
-"15 James Street, Mariginiup",190000
 "15 Japonica Heights, Mirrabooka",445000
 "15 Jersey Street, Jolimont",750000
 "15 Jinda Road, Koongamia",320000
@@ -5845,7 +5818,6 @@ ADDRESS,PRICE
 "15 Las Ramblas Circle, Clarkson",370000
 "15 Laughton Way, Leeming",550000
 "15 Laverick Street, Haynes",180000
-"15 Lawnbrook Road, Bickley",97500
 "15 Lefroy Road, Yanchep",465000
 "15 Lenham Way, Marangaroo",440000
 "15 Lennard Street, Marmion",1430000
@@ -5980,7 +5952,6 @@ ADDRESS,PRICE
 "15 Prudhoe Mews, Ridgewood",359000
 "15 Pymore Crescent, Butler",290000
 "15 Quarram Crescent, Burns Beach",735000
-"15 Rabone Way, Boya",150000
 "15 Ragley Way, The Vines",570000
 "15 Railway Crescent, Herne Hill",180000
 "15 Rainham Avenue, Mindarie",610000
@@ -6119,7 +6090,6 @@ ADDRESS,PRICE
 "15 Willow Bank Entrance, Gwelup",1050000
 "15 Willow Road, Warwick",680000
 "15 Windarra Heights, Marangaroo",400000
-"15 Wingate Avenue, Hazelmere",125000
 "15 Wingrove Road, Langford",470000
 "15 Winston Way, Madeley",710000
 "15 Woodlake Retreat, Kingsley",650000
@@ -6211,7 +6181,6 @@ ADDRESS,PRICE
 "154 Tenth Avenue, Inglewood",1442750
 "154A Kitchener Road, Alfred Cove",805000
 "155 Barridale Drive, Kingsley",500000
-"155 Bushmead Road, Hazelmere",178000
 "155 Duke Street, Scarborough",580000
 "155 Glen Iris Drive, Jandakot",690000
 "155 Stubbs Terrace, Daglish",930000
@@ -6350,7 +6319,6 @@ ADDRESS,PRICE
 "16 Balfour Road, Swan View",322500
 "16 Banjine Road, Koongamia",355000
 "16 Bantry Bend, Mindarie",890000
-"16 Barang Circuit, Karawara",460000
 "16 Barbados Link, Langford",535000
 "16 Barbarossa Drive, Caversham",520000
 "16 Barclay Way, Aveley",285000
@@ -7102,7 +7070,6 @@ ADDRESS,PRICE
 "17 Allenswood Road, Greenwood",562500
 "17 Allestree Road, Darlington",620000
 "17 Anderton Retreat, Murdoch",738000
-"17 Anne Avenue, Walliston",160000
 "17 Anzac Place, Rockingham",381000
 "17 Aquitania Close, Port Kennedy",320000
 "17 Ardea Way, Baldivis",400000
@@ -7359,7 +7326,6 @@ ADDRESS,PRICE
 "17 Jacana Circle, Gwelup",900000
 "17 Jack Road, Wattle Grove",1000000
 "17 Jade Street, Mount Richon",555000
-"17 James Street, Mariginiup",240000
 "17 Jameson Street, Mosman Park",1320000
 "17 Japonica Heights, Mirrabooka",300000
 "17 Jasmin Way, Maida Vale",467500
@@ -7458,7 +7424,6 @@ ADDRESS,PRICE
 "17 Murchison Drive, Jane Brook",575000
 "17 Murchison Street, Coolbinia",1195000
 "17 Mustang Drive, Henley Brook",493000
-"17 Nairn Road, Bickley",110000
 "17 Nambucca Way, Secret Harbour",370000
 "17 Nance Street, Kewdale",391000
 "17 Nanika Crescent, Joondalup",504210
@@ -7664,7 +7629,6 @@ ADDRESS,PRICE
 "170 Camberwarra Drive, Craigie",445000
 "170 Glen Forrest Drive, Glen Forrest",658000
 "170 Glen Iris Drive, Jandakot",650000
-"170 Pinjar Road, Mariginiup",216000
 "170 Samuel Street, Mount Helena",619000
 "170 Shaftesbury Avenue, Bedford",580000
 "170 Southacre Drive, Canning Vale",680000
@@ -7711,7 +7675,6 @@ ADDRESS,PRICE
 "175 Ferndale Crescent, Ferndale",385000
 "175 Honeywood Avenue, Wandi",385000
 "175 Pearce Street, Sawyers Valley",450000
-"175 Robinson Road, Mahogany Creek",187000
 "175 Sexton Street, Sawyers Valley",555000
 "175 Surrey Road, Rivervale",715000
 "175A Elliott Road, Scarborough",600000
@@ -8002,7 +7965,6 @@ ADDRESS,PRICE
 "18 Hennessy Drive, Ashby",605000
 "18 Hickey Avenue, Daglish",1070000
 "18 Hidcote Way, Pearsall",447500
-"18 Hilltop Close, Mahogany Creek",240000
 "18 Honours Rise, Marangaroo",355000
 "18 Hooley Street, Swanbourne",1100000
 "18 Horner Way, Herne Hill",375000
@@ -8495,7 +8457,6 @@ ADDRESS,PRICE
 "19 Brendon Way, Karrinyup",547500
 "19 Bridgedale Close, Beldon",475000
 "19 Bristow Street, Haynes",141000
-"19 Broadway Road, Bickley",204750
 "19 Brookeby Heights, Leda",385000
 "19 Brora Grove, Boya",720000
 "19 Broula Road, Kalamunda",669000
@@ -8771,7 +8732,6 @@ ADDRESS,PRICE
 "19 Monticello Meander, Landsdale",620000
 "19 Monument Street, Mosman Park",1425000
 "19 Mount Henry Road, Salter Point",1050000
-"19 Mudalla Way, Koongamia",120000
 "19 Mulligan Way, Orelia",370000
 "19 Myerson Crescent, Maida Vale",475000
 "19 Narrier Close, South Guildford",385000
@@ -8824,7 +8784,6 @@ ADDRESS,PRICE
 "19 Riding Way, Bull Creek",820000
 "19 River Bank Boulevard, South Guildford",740000
 "19 Rivett Way, Brentwood",547000
-"19 Robertson Street, Hazelmere",235000
 "19 Robin Street, Menora",1900000
 "19 Rosedale Vista, Hocking",490000
 "19 Rotohine Place, Cooloongup",390000
@@ -9054,7 +9013,6 @@ ADDRESS,PRICE
 "19B Gairloch Place, Joondalup",375000
 "19B Galahad Way, Carine",483500
 "19B Huntington Road, Coogee",525000
-"19B Jackson Road, Karawara",312500
 "19B Lombardy Street, Woodlands",1020000
 "19B Portree Way, Ardross",1270000
 "19B Prince Street, Queens Park",340000
@@ -9090,7 +9048,6 @@ ADDRESS,PRICE
 "1A Harley Street, Highgate",765000
 "1A Hassett Street, Cloverdale",435000
 "1A Helen Street, Bellevue",359000
-"1A Jinda Road, Koongamia",98000
 "1A Johanson Promenade, Murdoch",582000
 "1A Johnson Avenue, Guildford",710000
 "1a Kadina Street, Craigie",329000
@@ -9109,7 +9066,6 @@ ADDRESS,PRICE
 "1A Thomas Street, Nedlands",1525000
 "1A Warnes Street, Maylands",780000
 "1A Webb Street, Rossmoyne",550000
-"1A Wingate Avenue, Hazelmere",160000
 "1A York Avenue, Bentley",500000
 "1B Beryl Street, Balcatta",435000
 "1B Charles Street, Karrinyup",1101000
@@ -9204,7 +9160,6 @@ ADDRESS,PRICE
 "2 Blancoa Lane, Stirling",1150000
 "2 Blaxland Elbow, Seville Grove",345000
 "2 Bonita Way, Tapping",479000
-"2 Boongala Close, Karawara",351000
 "2 Bourke View, Jane Brook",605000
 "2 Bovell Gardens, Leeming",775000
 "2 Bowline Avenue, Alkimos",352000
@@ -9275,7 +9230,6 @@ ADDRESS,PRICE
 "2 Cooinda Close, Quinns Rocks",535000
 "2 Cook Place, Lesmurdie",688000
 "2 Coolgardie Avenue, East Fremantle",820000
-"2 Corin Way, Wattleup",161500
 "2 Cornell Place, East Cannington",540000
 "2 Cottontree Lane, Bennett Springs",530000
 "2 Cowara Way, Byford",380000
@@ -9328,7 +9282,6 @@ ADDRESS,PRICE
 "2 Elstree Avenue, Menora",1400000
 "2 Enlie Lane, Warnbro",300000
 "2 Epping Grove, Kallaroo",715000
-"2 Eric Street, Hazelmere",145000
 "2 Erica Court, Stoneville",595000
 "2 Est Lane, Ashby",455000
 "2 Esther Place, Gosnells",285000
@@ -9405,7 +9358,6 @@ ADDRESS,PRICE
 "2 Hayling Road, Iluka",900000
 "2 Hayward Road, Martin",420000
 "2 Hazelmere Circus, Hazelmere",765000
-"2 Hazelmere Crescent, Hazelmere",56000
 "2 Hedges Retreat, Atwell",485000
 "2 Hedland Street, East Victoria Park",660000
 "2 Hedley Street, Bentley",425000
@@ -9542,7 +9494,6 @@ ADDRESS,PRICE
 "2 MCKENNA GLEN, Mount Claremont",1250000
 "2 McNeil Grove, Jarrahdale",440000
 "2 Meldrum Way, Koondoola",410000
-"2 Melinga Court, Karawara",312000
 "2 Melo Court, Heathridge",435000
 "2 Mengler Avenue, Claremont",830000
 "2 Merion Place, Connolly",665000
@@ -9564,14 +9515,12 @@ ADDRESS,PRICE
 "2 Morris Street, Beaconsfield",780000
 "2 Morris Street, Darch",544000
 "2 Moyle Way, Henley Brook",459000
-"2 Mudalla Way, Koongamia",81000
 "2 Mudge Street, Myaree",770000
 "2 Muja Lane, Woodbridge",880000
 "2 Myhill Mews, Leda",342000
 "2 Nandup Retreat, Swan View",319000
 "2 Naples Place, Secret Harbour",428000
 "2 Napoli Avenue, Piara Waters",602500
-"2 Narla Place, Koongamia",108000
 "2 Nash Street, Daglish",750000
 "2 Naturaliste Grove, Ballajura",430000
 "2 Newell Cove, Joondalup",505000
@@ -9604,6 +9553,7 @@ ADDRESS,PRICE
 "2 Otram Way, Churchlands",1221000
 "2 Oxalis Grove, Beeliar",440000
 "2 Palmer Street, Attadale",2150000
+"2 Parker Road, Parkerville",430000
 "2 Patenier Street, Ashby",520000
 "2 Patula Place, Menora",750000
 "2 Pearson Street, Ashfield",525000
@@ -9667,7 +9617,6 @@ ADDRESS,PRICE
 "2 Serrata Way, Mirrabooka",430000
 "2 Settler Place, Greenmount",405000
 "2 Shannon Street, Yanchep",295000
-"2 Sharyn Road, Walliston",165000
 "2 Shetland Rise, Kinross",455000
 "2 Shivery Fairway, Secret Harbour",669000
 "2 Simmental Vale, Stratton",375000
@@ -10028,7 +9977,6 @@ ADDRESS,PRICE
 "20 Cosmos Street, East Cannington",415000
 "20 Courtland Crescent, Redcliffe",485000
 "20 Crake Street, Ascot",680000
-"20 Craven Road, Mahogany Creek",153500
 "20 Crossford Street, Thornlie",252000
 "20 Croydon Street, Bellevue",445000
 "20 Crystal Turn, Bennett Springs",543000
@@ -10348,7 +10296,6 @@ ADDRESS,PRICE
 "20 Villiers Way, Parkwood",550000
 "20 Virago Street, Aveley",648000
 "20 Vista Drive, Parkerville",507500
-"20 Vivian Way, Boya",178000
 "20 Voltaire Crescent, Ridgewood",495000
 "20 Wade Street, Joondanna",610000
 "20 Walanna Drive, Karawara",430000
@@ -10507,7 +10454,6 @@ ADDRESS,PRICE
 "21 Ambleside Close, Balga",358000
 "21 Ambleside Way, Canning Vale",650000
 "21 Ameer Way, Beeliar",503750
-"21 Anne Avenue, Walliston",114000
 "21 Annie Street, Beaconsfield",650000
 "21 Apsley Road, Willetton",695000
 "21 Arcadia Crescent, Bateman",800000
@@ -10547,7 +10493,6 @@ ADDRESS,PRICE
 "21 Blue Mountain Link, Merriwa",301000
 "21 Botanic Avenue, Banksia Grove",487000
 "21 Bottega Place, Lesmurdie",740000
-"21 Boya Crescent, Boya",315000
 "21 Bradley Way, Lockridge",365444
 "21 Bramley Way, Bibra Lake",480000
 "21 Bristol Street, Warnbro",240000
@@ -10901,7 +10846,6 @@ ADDRESS,PRICE
 "21 Vincent Street, Nedlands",2060000
 "21 Vista Drive, Parkerville",560000
 "21 Wahroonga Way, Greenwood",508000
-"21 Wandarra Close, Karawara",265000
 "21 Wanliss Street, Jarrahdale",450000
 "21 WARNER COURT, Manning",690000
 "21 Warralong Crescent, Coolbinia",1402500
@@ -11175,7 +11119,6 @@ ADDRESS,PRICE
 "22 Dillwynia Bend, Banksia Grove",421000
 "22 Dirk Hartog Road, Bull Creek",720000
 "22 Dolphin Way, Beldon",465000
-"22 Draper Road, Mahogany Creek",122000
 "22 Du Maurier Road, North Lake",590000
 "22 Duffield Avenue, Beaconsfield",626500
 "22 Dulcet Link, Atwell",555000
@@ -11320,7 +11263,6 @@ ADDRESS,PRICE
 "22 Manders Way, Singleton",340000
 "22 Mangosteen Drive, Forrestfield",435000
 "22 Manoora Court, Quinns Rocks",650000
-"22 Mardja Loop, Mardella",84950
 "22 Margaret Street, Wilson",535000
 "22 Marian Street, Innaloo",552000
 "22 Market Street, Kensington",825000
@@ -11524,7 +11466,6 @@ ADDRESS,PRICE
 "220 Bennett Springs Drive, Bennett Springs",555000
 "220 Burniston Street, Scarborough",720000
 "220 Epsom Avenue, Belmont",360000
-"220 Pickering Brook Road, Pickering Brook",140000
 "220 Princess Road, Mount Helena",450000
 "220 Samuel Street, Mount Helena",591000
 "220 Wilding Street, Doubleview",550000
@@ -11626,7 +11567,6 @@ ADDRESS,PRICE
 "23 Alday Street, St James",440000
 "23 Alexander Drive, Menora",879000
 "23 Alice Street, Bellevue",480000
-"23 Allendale Entrance, North Lake",205000
 "23 Almond Avenue, Shoalwater",540000
 "23 Amalfi Crest, Yangebup",590000
 "23 Angelica Way, Atwell",450000
@@ -11701,7 +11641,6 @@ ADDRESS,PRICE
 "23 Chivalry Way, Thornlie",412000
 "23 Clarence Street, Tuart Hill",570000
 "23 Cleopatra Street, Palmyra",1140000
-"23 Clianthus Way, Koongamia",77000
 "23 Clivia Heights, Sinagra",580000
 "23 Clotilde Street, Mount Lawley",1750000
 "23 Clyde Road, Menora",1085000
@@ -11817,7 +11756,6 @@ ADDRESS,PRICE
 "23 Jefferies Way, Leeming",660000
 "23 Jeffrey Loop, Brookdale",309750
 "23 Jerrat Mews, Atwell",495000
-"23 Jinda Road, Koongamia",90000
 "23 Johnson Crescent, Mullaloo",920000
 "23 Joudah Court, High Wycombe",485000
 "23 Kalamatta Way, Gooseberry Hill",605000
@@ -11969,7 +11907,6 @@ ADDRESS,PRICE
 "23 Seurat Loop, Ashby",479000
 "23 Shalimar Rise, Currambine",550000
 "23 Shield Road, Lesmurdie",485000
-"23 Shirley Road, Walliston",130000
 "23 Sixth Avenue, Kensington",1250000
 "23 Smith Street, Glen Forrest",565000
 "23 Snowberry Retreat, Mirrabooka",410000
@@ -12456,7 +12393,6 @@ ADDRESS,PRICE
 "24 Rigby Avenue, Spearwood",425000
 "24 Ripple Way, Bateman",850000
 "24 Riversdale Pass, Jandakot",626000
-"24 Robertson Street, Hazelmere",62000
 "24 Rochester Way, Dianella",660000
 "24 Rochford Street, Canning Vale",600000
 "24 Rockdale Place, Lesmurdie",605000
@@ -12521,7 +12457,6 @@ ADDRESS,PRICE
 "24 Voltaire Crescent, Ridgewood",465000
 "24 Wadhurst Road, Butler",429000
 "24 Wallsend Road, Woodbridge",775000
-"24 Wandarra Close, Karawara",405000
 "24 Warren Road, Maida Vale",420000
 "24 Waterhall Road, South Guildford",420000
 "24 Waterhouse Meander, Burns Beach",790000
@@ -13389,7 +13324,6 @@ ADDRESS,PRICE
 "26 Weldwood Road, Ocean Reef",995000
 "26 Wentletrap Way, Mullaloo",825000
 "26 West End Parade, Canning Vale",669000
-"26 Westerway Terrace, North Lake",570000
 "26 Whiteside Street, Cloverdale",410000
 "26 Whitfeld Terrace, Winthrop",1400000
 "26 Wicks Street, Eden Hill",495000
@@ -13547,7 +13481,6 @@ ADDRESS,PRICE
 "27 Citrus Loop, South Lake",435000
 "27 Clearwater Way, Singleton",440000
 "27 Clement Street, Swanbourne",1885000
-"27 Clianthus Way, Koongamia",117500
 "27 Cloister Avenue, Manning",920000
 "27 Clyde Road, Menora",1190000
 "27 Cockman Way, Orelia",350000
@@ -13761,7 +13694,6 @@ ADDRESS,PRICE
 "27 Strathclyde Circuit, Champion Lakes",195000
 "27 Sullivan Road, Duncraig",575000
 "27 Susetta Approach, Success",528000
-"27 Swan Road, Mahogany Creek",61000
 "27 Swiftlet Way, Gwelup",825000
 "27 Talbot Drive, Kingsley",525000
 "27 Tambora Bend, Madeley",470000
@@ -13791,13 +13723,11 @@ ADDRESS,PRICE
 "27 Vivaldi Avenue, Stirling",950000
 "27 Viveash Road, Middle Swan",495000
 "27 Waldorf Ramble, Currambine",637000
-"27 Wangalla Road, Koongamia",140000
 "27 Waterhouse Meander, Burns Beach",899000
 "27 Waterlily Drive, Stratton",340000
 "27 Watervista Place, Maylands",925000
 "27 Weld Road, Swan View",501000
 "27 Wellard Road, Calista",235000
-"27 West Parade, Hazelmere",163000
 "27 Westerway Terrace, North Lake",610000
 "27 Weymouth Boulevard, Quinns Rocks",565000
 "27 Whistler Green, Brookdale",56100
@@ -14061,7 +13991,6 @@ ADDRESS,PRICE
 "28 Margaret Street, Ashfield",500000
 "28 Marlin Way, Singleton",485000
 "28 Marmot Way, Ferndale",525000
-"28 Marriott Road, Boya",147500
 "28 Marsh Avenue, Manning",800000
 "28 Mary Street, Hazelmere",555000
 "28 Mary Street, Watermans Bay",1015000
@@ -14120,7 +14049,6 @@ ADDRESS,PRICE
 "28 Reen Street, Kewdale",515000
 "28 Rickett Street, Haynes",185000
 "28 Ridge Street, South Perth",2300000
-"28 Robertson Street, Hazelmere",127000
 "28 Robins Road, Kalamunda",615000
 "28 Romano Crescent, Iluka",1395000
 "28 Roscommon Road, Floreat",1445000
@@ -14315,7 +14243,6 @@ ADDRESS,PRICE
 "29 Cerulean Road, Karnup",185000
 "29 Cincotta Loop, Beeliar",609000
 "29 Clearwater Way, Singleton",430000
-"29 Clianthus Way, Koongamia",110000
 "29 Clint Way, Calista",352500
 "29 Clipson Crescent, Mundaring",657500
 "29 Clive Street, Bicton",1250000
@@ -14460,7 +14387,6 @@ ADDRESS,PRICE
 "29 Queen Street, Bentley",605500
 "29 Queensbury Road, Joondalup",500000
 "29 Radstock Circuit, Ridgewood",370000
-"29 Railway Crescent, Herne Hill",160000
 "29 Ralphs Street, Seville Grove",385000
 "29 Ranmere Way, Langford",449000
 "29 Rawlinna Heights, Ballajura",429000
@@ -14532,7 +14458,6 @@ ADDRESS,PRICE
 "29 Wellard Road, Calista",345500
 "29 Wellesley Way, Samson",655000
 "29 Welstead Way, Hocking",567000
-"29 West Parade, Hazelmere",76000
 "29 Wexcombe Way, Aveley",410000
 "29 Whimbrel Parade, Bennett Springs",635000
 "29 Whistler Green, Brookdale",282000
@@ -14550,7 +14475,6 @@ ADDRESS,PRICE
 "29/27 Piccadilly Circle, Joondalup",335000
 "290 Cape Street, Yokine",685000
 "290 Samuel Street, Mount Helena",655000
-"290 Sexton Street, Sawyers Valley",127500
 "290 Walcott Street, Menora",849000
 "290 Warton Road, Southern River",485000
 "2900 Strettle Road, Mahogany Creek",290000
@@ -14652,7 +14576,6 @@ ADDRESS,PRICE
 "2A Thompson Street, North Perth",615000
 "2A Turley Court, Langford",310000
 "2A Unwin Crescent, Salter Point",1030000
-"2A Wingate Avenue, Hazelmere",61000
 "2A Yalgoo Avenue, White Gum Valley",570000
 "2A Yilgarn Street, Shenton Park",750000
 "2B Bonsall Place, Carine",461000
@@ -14734,7 +14657,6 @@ ADDRESS,PRICE
 "3 ATHENS Road, Wellard",390000
 "3 Atlantic Avenue, Iluka",790000
 "3 Atma Way, Iluka",950000
-"3 Audrey Street, Mahogany Creek",142000
 "3 Auks Rise, Ballajura",550000
 "3 Avila Way, Alexander Heights",447500
 "3 Avon Place, Warwick",705000
@@ -14761,7 +14683,6 @@ ADDRESS,PRICE
 "3 Barnsley Street, Queens Park",310000
 "3 Barunga Way, Craigie",427500
 "3 Baskerville Crescent, Baldivis",415000
-"3 Baskerville Road, Mundijong",170000
 "3 Baskir Way, Henley Brook",447000
 "3 Basle Way, Mindarie",685000
 "3 Bass Close, East Cannington",417000
@@ -14829,7 +14750,6 @@ ADDRESS,PRICE
 "3 Britannia Place, Port Kennedy",385000
 "3 Broadford Avenue, Butler",480000
 "3 Broadhurst Crescent, Bateman",846000
-"3 Broadway Road, Bickley",162000
 "3 Brock Lane, Success",415000
 "3 Brolo Court, Stirling",635000
 "3 Bromley Road, Hilton",575000
@@ -14978,7 +14898,6 @@ ADDRESS,PRICE
 "3 Dryandra Drive, Mirrabooka",313000
 "3 Duart Road, Trigg",1070000
 "3 Dumbarton Crescent, Menora",1500000
-"3 Duncan Place, Mahogany Creek",168000
 "3 Dunvegan Road, Applecross",1900000
 "3 Durack Close, Bateman",975000
 "3 Durant Way, Piara Waters",548000
@@ -14996,7 +14915,6 @@ ADDRESS,PRICE
 "3 Elmwood Court, Marangaroo",416000
 "3 Elton Way, Ashby",500000
 "3 Emerald Lane, Bullsbrook",360000
-"3 Empire Road, Carmel",152000
 "3 Emu Road, Brookdale",380000
 "3 Ennis Court, Orelia",277300
 "3 Ensign Dale, Kelmscott",465000
@@ -15164,7 +15082,6 @@ ADDRESS,PRICE
 "3 Jensen Rise, Iluka",1270000
 "3 Jida Cove, Huntingdale",322500
 "3 Jillman Way, Ferndale",420000
-"3 Jinda Road, Koongamia",169000
 "3 Jindabyne Street, Hilbert",505000
 "3 Jingella Mews, Viveash",489000
 "3 Jitti Court, South Guildford",430000
@@ -15302,7 +15219,6 @@ ADDRESS,PRICE
 "3 Meteor Street, Beckenham",345000
 "3 Metroliner Drive, Currambine",525000
 "3 Miami Beach Promenade, Iluka",740000
-"3 Michael Crescent, Boya",360000
 "3 Michael Street, Beaconsfield",505000
 "3 Middleham Boulevard, Orelia",415000
 "3 Millington Avenue, Daglish",620000
@@ -15397,7 +15313,6 @@ ADDRESS,PRICE
 "3 Plumosa Way, Wattle Grove",652000
 "3 Plumwood Avenue, Hammond Park",440000
 "3 Podger Way, Brookdale",346500
-"3 Pope Mews, North Lake",370000
 "3 Portrush Way, Mindarie",735000
 "3 Portsea Gardens, Jandakot",900000
 "3 Portsmouth Street, Jindalee",515000
@@ -15627,7 +15542,6 @@ ADDRESS,PRICE
 "3 Williams Road, Coolbellup",543000
 "3 Willow Court, Cooloongup",387500
 "3 Willshire Way, Yangebup",395000
-"3 Wilson Street, Wooroloo",78500
 "3 Winona Link, Banksia Grove",365000
 "3 Winston Crescent, Viveash",750000
 "3 Wolfson Way, Piara Waters",515000
@@ -15958,7 +15872,6 @@ ADDRESS,PRICE
 "30 Queenscliffe Road, Doubleview",1926000
 "30 Rae Road, Safety Bay",480000
 "30 Redgum Drive, Ballajura",396000
-"30 Richardson Street, Mundijong",197000
 "30 Richenda Court, Marangaroo",440000
 "30 Rickett Street, Haynes",185000
 "30 Ridgewood Boulevard, Ridgewood",430000
@@ -16040,7 +15953,6 @@ ADDRESS,PRICE
 "302 Bennett Springs Drive, Bennett Springs",418000
 "302 Lyon Road, Aubin Grove",530000
 "302 Summerlakes Parade, Ballajura",528000
-"3020 Strettle Road, Mahogany Creek",98000
 "3027 Albany Highway, Kelmscott",490000
 "303 Kalamunda Road, Maida Vale",275000
 "303 West Coast Drive, Trigg",2140000
@@ -16346,7 +16258,6 @@ ADDRESS,PRICE
 "31 Waterside Pass, Byford",699000
 "31 Wavelea Street, Safety Bay",475000
 "31 Weddall Road, Lockridge",425000
-"31 West Parade, Hazelmere",257000
 "31 Westerway Terrace, North Lake",685000
 "31 Westmorland Drive, Leeming",770000
 "31 Whitmore Terrace, Heathridge",620000
@@ -16970,7 +16881,6 @@ ADDRESS,PRICE
 "33 Woodley Crescent, Melville",855000
 "33 Woolgar Way, Lockridge",335000
 "33 Wundu Entrance, South Guildford",457000
-"33 Wynne Street, Hazelmere",115000
 "33/20 Alday Street, St James",351000
 "330 Glen Forrest Drive, Glen Forrest",500000
 "3315 Stoneville Road, Stoneville",530000
@@ -17121,7 +17031,6 @@ ADDRESS,PRICE
 "34 Froudist Circle, Southern River",575000
 "34 Garrong Close, Edgewater",475100
 "34 Gawler Way, Calista",270000
-"34 Gillon Street, Karawara",435000
 "34 Glennon Way, Rossmoyne",1245000
 "34 Gosford Meander, Ashby",470000
 "34 Grand Paradiso Parade, Merriwa",385000
@@ -17208,7 +17117,6 @@ ADDRESS,PRICE
 "34 Patricia Road, Kalamunda",750000
 "34 Pavilion Circle, The Vines",520000
 "34 Peaceful Vista, Harrisdale",583000
-"34 Peterborough Circle, North Lake",425000
 "34 Pinot Loop, Pearsall",420000
 "34 Portchester Drive, Darch",580000
 "34 Priestley Street, Embleton",550000
@@ -18232,7 +18140,6 @@ ADDRESS,PRICE
 "38 Sandpiper Loop, Yangebup",440000
 "38 Santa Barbara Parade, Quinns Rocks",453000
 "38 Saunders Street, North Beach",1351750
-"38 School Road, Karragullen",95000
 "38 Seapeak Road, Ocean Reef",596000
 "38 Sebastian Crescent, Coolbellup",370000
 "38 Sennet Lane, Warnbro",260000
@@ -19149,7 +19056,6 @@ ADDRESS,PRICE
 "4 Manitoba Court, Joondalup",630000
 "4 Mann Place, Roleystone",520000
 "4 Mardella Street, Coolbinia",1485000
-"4 Mardja Loop, Mardella",87640
 "4 Margaret Street, Ashfield",440000
 "4 Marjorie Street, Mullaloo",900000
 "4 Marlborough Way, Quinns Rocks",715000
@@ -19192,7 +19098,6 @@ ADDRESS,PRICE
 "4 Minden Rise, Sorrento",1025000
 "4 Mirfield Street, Roleystone",410000
 "4 Mission Place, Cooloongup",419000
-"4 Mitchell Street, Wooroloo",82000
 "4 Mokutu Court, Quinns Rocks",389000
 "4 Montague Street, Secret Harbour",425000
 "4 Montego Rise, Iluka",1330000
@@ -19932,7 +19837,6 @@ ADDRESS,PRICE
 "41 Haig Street, Ashfield",540000
 "41 Hale Street, Watermans Bay",1055000
 "41 Halifax Boulevard, Mindarie",740000
-"41 Halleendale Road, Walliston",69000
 "41 Halvorson Road, Morley",370000
 "41 Hartwell Parade, Jandakot",630000
 "41 Heath Road, Roleystone",650000
@@ -20008,7 +19912,6 @@ ADDRESS,PRICE
 "41 Samson Street, White Gum Valley",830000
 "41 Santa Monica Parade, Iluka",710000
 "41 Scanlon Way, Lockridge",460000
-"41 Scott Street, Koongamia",140000
 "41 Seashells Crescent, Singleton",335000
 "41 Selby Street, Daglish",579000
 "41 Shallcross Street, Yangebup",600000
@@ -20797,7 +20700,6 @@ ADDRESS,PRICE
 "45 Marshall Way, Samson",535000
 "45 Matheson Road, Applecross",2330000
 "45 Mayflower Crescent, Craigie",87000
-"45 Mayo Road, Wooroloo",97000
 "45 Mayor Road, Coogee",540000
 "45 McKenzie Street, Wembley",1375000
 "45 McLean Road, Canning Vale",425000
@@ -20954,7 +20856,6 @@ ADDRESS,PRICE
 "46 John Forrest Circuit, Bertram",465000
 "46 Kemmish Avenue, Parmelia",308000
 "46 Kimberley Street, West Leederville",1125000
-"46 Kirkstall Way, Sawyers Valley",125000
 "46 Knowles Street, Balcatta",525000
 "46 Koondoola Avenue, Koondoola",397000
 "46 Lakefront Circle, The Vines",275000
@@ -21625,7 +21526,6 @@ ADDRESS,PRICE
 "5 Armada Close, Port Kennedy",330000
 "5 Armstrong Road, Wilson",680000
 "5 Ashfield Parade, Ashfield",705000
-"5 Ashstead Street, Sawyers Valley",114850
 "5 Ashurst Way, Hocking",545000
 "5 Athenny Way, Darch",430000
 "5 Atkinson Court, Stratton",362000
@@ -21645,7 +21545,6 @@ ADDRESS,PRICE
 "5 Banksia Road, Camillo",228000
 "5 Banool Crescent, City Beach",1510000
 "5 Banyan Close, Marangaroo",390000
-"5 Barang Circuit, Karawara",500000
 "5 Barbados Link, Langford",440000
 "5 Barcoo Mews, South Guildford",840000
 "5 Bardoc Court, Hillman",325000
@@ -22064,7 +21963,6 @@ ADDRESS,PRICE
 "5 Keightly Corner, Jane Brook",520000
 "5 Kemp Court, Helena Valley",785000
 "5 Kennedy Street, Melville",950000
-"5 Kennedya Road, Walliston",233000
 "5 Kestrel Circle, Brookdale",345000
 "5 Keswick Way, Waikiki",540000
 "5 Kianga Crescent, Burns Beach",950000
@@ -22150,7 +22048,6 @@ ADDRESS,PRICE
 "5 McPherson Street, Menora",1445000
 "5 Meadowbank Terrace, South Lake",462000
 "5 Meelah Road, City Beach",1575000
-"5 Meelah Way, Koongamia",130000
 "5 Meelup Way, Ridgewood",355000
 "5 Meenaar Crescent, Coolbinia",917500
 "5 Meere Lane, Clarkson",335000
@@ -22190,7 +22087,6 @@ ADDRESS,PRICE
 "5 Morfontaine Parade, Port Kennedy",430000
 "5 Morgan Road, Seville Grove",332000
 "5 Mount Park Way, Canning Vale",535000
-"5 Mudalla Way, Koongamia",85000
 "5 Mudlark Close, Langford",450000
 "5 Mundanup Close, Kelmscott",500000
 "5 Munja Street, Golden Bay",530000
@@ -22458,7 +22354,6 @@ ADDRESS,PRICE
 "5 Vista Drive, Parkerville",538000
 "5 Vista Street, Kensington",1130000
 "5 Vitis Chase, Ashby",265000
-"5 Vivian Way, Boya",360000
 "5 Volante Elbow, Ocean Reef",885000
 "5 Voyager Link, Ellenbrook",405000
 "5 Wadham Link, Piara Waters",385000
@@ -22990,7 +22885,6 @@ ADDRESS,PRICE
 "52 Patterson Drive, Middle Swan",370000
 "52 Pennlake Drive, Spearwood",650000
 "52 Periwinkle Way, Parkwood",525000
-"52 Peterborough Circle, North Lake",650000
 "52 Pitt Street, St James",585000
 "52 Prinsep Road, Jandakot",780000
 "52 Raglan Road, Mount Lawley",785000
@@ -23131,7 +23025,6 @@ ADDRESS,PRICE
 "53 Roxburgh Circle, Kinross",650000
 "53 San Teodoro Avenue, Sinagra",385000
 "53 Sanctuary Gardens, Ridgewood",355000
-"53 Scott Street, Koongamia",99900
 "53 Simpson Drive, Padbury",515000
 "53 Sixth Road, Armadale",275000
 "53 Spring Avenue, Midland",349000
@@ -23629,7 +23522,6 @@ ADDRESS,PRICE
 "57 Kawana Avenue, Maddington",350000
 "57 Kingswood Street, Mount Helena",460000
 "57 Kinkuna Way, City Beach",1950000
-"57 Kirkstall Way, Sawyers Valley",215000
 "57 Kooyong Road, Rivervale",500000
 "57 Langler Street, East Victoria Park",580000
 "57 Lannam Road, Hilbert",310000
@@ -23896,7 +23788,6 @@ ADDRESS,PRICE
 "59 Tomah Road, Wattle Grove",580000
 "59 Torquata Boulevard, Helena Valley",470000
 "59 Twilight Circuit, Ridgewood",400000
-"59 Valencia Road, Carmel",136500
 "59 Villatella Gardens, Piara Waters",472000
 "59 Walter Padbury Boulevard, Padbury",770000
 "59 Watkins Loop, Tapping",390000
@@ -24860,7 +24751,6 @@ ADDRESS,PRICE
 "6 Velvet Way, Banksia Grove",420000
 "6 Verdin Close, Maida Vale",627000
 "6 Verrado Way, Clarkson",373000
-"6 Verticordia Road, Walliston",130000
 "6 Verton Drive, Shelley",978000
 "6 Victoria Parade, Midvale",309000
 "6 Viewpointe Cove, Ballajura",509888
@@ -24985,7 +24875,6 @@ ADDRESS,PRICE
 "6/73 Stalker Road, Gosnells",240000
 "6/82 Forrest Street, South Perth",635000
 "60 Alfreda Avenue, Morley",574000
-"60 Allendale Entrance, North Lake",270000
 "60 Amherst Road, Woodbridge",316666
 "60 Archidamus Road, Coolbellup",410000
 "60 Ashbourne Avenue, Ridgewood",380000
@@ -25159,7 +25048,6 @@ ADDRESS,PRICE
 "61 Kingswood Street, Mount Helena",485000
 "61 Kitchener Street, Trigg",845000
 "61 La Fayette Boulevard, Bibra Lake",490000
-"61 Lakes Road, Hazelmere",400000
 "61 Lakeside Drive, Joondalup",605000
 "61 Letsom Way, Langford",420000
 "61 Lindsay Beach Boulevard, Yanchep",420000
@@ -25294,7 +25182,6 @@ ADDRESS,PRICE
 "62 Parktree Avenue, Yanchep",355000
 "62 Parnell Avenue, Marmion",782500
 "62 Paterson Street, Mundijong",470000
-"62 Peterborough Circle, North Lake",250000
 "62 Porongurup Drive, Clarkson",275000
 "62 Portwine Avenue, Byford",356000
 "62 Prinsep Road, Jandakot",740000
@@ -25409,7 +25296,6 @@ ADDRESS,PRICE
 "63 Rosinski Circle, Tapping",502000
 "63 Sanderling Drive, Thornlie",515000
 "63 Sandown Circle, Henley Brook",435000
-"63 Scott Street, Koongamia",170000
 "63 Sedgeland Way, Ascot",765000
 "63 Sicklemore Road, Parmelia",365000
 "63 Slater Court, Kardinya",740000
@@ -25562,7 +25448,6 @@ ADDRESS,PRICE
 "65 Delgado Parade, Iluka",992000
 "65 Drummond Gardens, Helena Valley",1050000
 "65 Feakle Bend, Ridgewood",370000
-"65 First Avenue, Bickley",163000
 "65 First Avenue, Rossmoyne",1210000
 "65 Flora Terrace, Watermans Bay",842500
 "65 Gabell Way, Koondoola",438000
@@ -26029,7 +25914,6 @@ ADDRESS,PRICE
 "7 Amethyst Place, Maida Vale",425000
 "7 Amherst Road, Woodbridge",500000
 "7 Anadara Place, Mullaloo",690000
-"7 Anne Avenue, Walliston",112000
 "7 Anstey Street, Mundijong",320000
 "7 Antrim Place, Beckenham",350000
 "7 Aquamarine Street, Eglinton",330000
@@ -26254,7 +26138,6 @@ ADDRESS,PRICE
 "7 Ellen Street, Mount Nasura",410000
 "7 Ellerby Way, Koondoola",440000
 "7 Ellis Court, Medina",230000
-"7 Emile Court, North Lake",184000
 "7 Entente Terrace, Atwell",770000
 "7 Erina Way, Ridgewood",330000
 "7 Eriskay Terrace, Henley Brook",510000
@@ -26386,7 +26269,6 @@ ADDRESS,PRICE
 "7 Honeypot Way, Churchlands",1800000
 "7 Hope Street, Watermans Bay",860000
 "7 Hope Street, White Gum Valley",1220000
-"7 Hovea Court, Mahogany Creek",195000
 "7 Howe Street, Beeliar",647500
 "7 Howell Court, Guildford",555000
 "7 Hubble Parkway, Clarkson",395000
@@ -26474,7 +26356,6 @@ ADDRESS,PRICE
 "7 Larch Place, Forrestfield",325000
 "7 Larkin Court, Medina",320000
 "7 Lavally Way, Darch",540000
-"7 Lawnbrook Road, Bickley",155000
 "7 Leach Street, Marmion",1550000
 "7 Leawood Crescent, Boya",325000
 "7 Leighfield Road, Hilbert",330000
@@ -26516,7 +26397,6 @@ ADDRESS,PRICE
 "7 Margaret Road, Secret Harbour",710000
 "7 Margaret Street, Ashfield",415000
 "7 Marlock Court, Mirrabooka",374000
-"7 Marriott Road, Boya",90000
 "7 Martin Road, Sorrento",1250000
 "7 Maryport Way, Butler",440000
 "7 Masefield Avenue, North Lake",559000
@@ -26668,7 +26548,6 @@ ADDRESS,PRICE
 "7 Reservoir Close, Mosman Park",1277000
 "7 Richard Close, Waikiki",255000
 "7 Rickett Street, Haynes",185000
-"7 Ridgeway Place, Mahogany Creek",320000
 "7 Riverina Drive, Ascot",950000
 "7 Roanoke Grove, Connolly",720000
 "7 Robert Street, Como",830000
@@ -26967,7 +26846,6 @@ ADDRESS,PRICE
 "70 Hardy Road, Ashfield",430000
 "70 Huntingdale Crescent, Connolly",615000
 "70 Huntingdale Road, Huntingdale",343000
-"70 Jinda Road, Koongamia",133000
 "70 Kathleen Street, Bassendean",510000
 "70 Kennedy Street, Alfred Cove",801000
 "70 King Road, Beechboro",299000
@@ -26993,7 +26871,6 @@ ADDRESS,PRICE
 "70 Swan Street, Guildford",740000
 "70 Terrace Road, Guildford",1300000
 "70 Tokara Avenue, Henley Brook",405000
-"70 Walanna Drive, Karawara",402500
 "70 Wanaping Road, Kenwick",425000
 "70 Wanstead Vista, Bertram",515000
 "70 Warner Road, Parmelia",448000
@@ -27003,7 +26880,6 @@ ADDRESS,PRICE
 "70 Willcox Street, Chidlow",290000
 "70 Ypres Road, Camillo",278000
 "704 Jarrahdale Road, Jarrahdale",346000
-"705 Jacoby Street, Mahogany Creek",148000
 "70A Calista Avenue, Calista",330000
 "70A Vahland Avenue, Riverton",555000
 "70A Waddell Road, Bicton",1010000
@@ -27454,7 +27330,6 @@ ADDRESS,PRICE
 "77 Napier Street, Cottesloe",1475000
 "77 Orchid Avenue, Bennett Springs",220000
 "77 Peet Crescent, Trigg",1150000
-"77 Peterborough Circle, North Lake",435000
 "77 Point Walter Road, Bicton",1439000
 "77 Raymond Street, Yokine",622500
 "77 Reserve Street, Wembley",1500000
@@ -27573,7 +27448,6 @@ ADDRESS,PRICE
 "79 Giles Avenue, Padbury",450000
 "79 Glen Iris Drive, Jandakot",890000
 "79 Hartfield Road, Forrestfield",420000
-"79 Kardan Circuit, Karawara",440000
 "79 Keehner Entrance, Martin",322000
 "79 Lawley Crescent, Mount Lawley",1185000
 "79 Markwell Avenue, Haynes",185000
@@ -28163,7 +28037,6 @@ ADDRESS,PRICE
 "8 Latham Street, Ashfield",445000
 "8 Lautoka Rise, Mindarie",760000
 "8 Laverick Street, Haynes",210000
-"8 Lawnbrook Road, Bickley",224000
 "8 Layman Street, Booragoon",1340000
 "8 Leece Place, Booragoon",740000
 "8 Leeder Street, Glendalough",415000
@@ -28223,7 +28096,6 @@ ADDRESS,PRICE
 "8 Minstrell Road, Bertram",457000
 "8 Mintern Court, Thornlie",310000
 "8 Mirreen Court, Karawara",350500
-"8 Mitchell Street, Wooroloo",128500
 "8 Mitford Grove, Port Kennedy",415000
 "8 Mitra Loop, Bennett Springs",500000
 "8 Moir Place, Midvale",365000
@@ -28574,7 +28446,6 @@ ADDRESS,PRICE
 "8/9 Anstey Street, Claremont",1225000
 "8/99 Stafford Road, Kenwick",225000
 "80 Alderbury Street, Floreat",1465000
-"80 Almeria Parade, Upper Swan",190000
 "80 Arthur Road, Wattle Grove",395000
 "80 Barnevelder Bend, Southern River",519000
 "80 Bayside Boulevard, Port Kennedy",495000
@@ -28665,7 +28536,6 @@ ADDRESS,PRICE
 "81 View Terrace, East Fremantle",935000
 "81/177 Dampier Avenue, Kallaroo",400000
 "81/23 Junction Boulevard, Cockburn Central",320000
-"815 Coulston Road, Boya",165000
 "81A Alfred Road, Mount Claremont",900000
 "81A Glenelg Avenue, Wembley Downs",650000
 "81a Howick Street, Lathlain",730000
@@ -29353,7 +29223,6 @@ ADDRESS,PRICE
 "9 Corsair Close, Port Kennedy",345000
 "9 Cortona Grove, Sinagra",460000
 "9 Corvette Way, Landsdale",470000
-"9 Cotrell Road, Carmel",80000
 "9 Covenham Crescent, Aveley",430000
 "9 Cox Court, Willagee",620000
 "9 Crabtree Street, Alexander Heights",407000
@@ -29480,7 +29349,6 @@ ADDRESS,PRICE
 "9 Guernsey Court, Stratton",369000
 "9 Hadley Place, Karrinyup",780000
 "9 Hakea Road, Woodlands",1390000
-"9 Halleendale Road, Walliston",98000
 "9 Hamlet Close, Beldon",462500
 "9 Hanlin Way, Samson",520000
 "9 Harris Place, Jarrahdale",485000
@@ -29528,7 +29396,6 @@ ADDRESS,PRICE
 "9 Ivythorne Grove, Kiara",485000
 "9 Jacana Circle, Gwelup",750000
 "9 James Avenue, Hazelmere",570000
-"9 James Street, Mariginiup",176000
 "9 Jandoo Street, Kenwick",295000
 "9 Japonica Way, Murdoch",668000
 "9 Jarvis Place, Leeming",930000
@@ -29652,7 +29519,6 @@ ADDRESS,PRICE
 "9 Mataitai Loop, Cooloongup",262000
 "9 Matson Street, Medina",272000
 "9 Matta Way, Pearsall",599000
-"9 Mayberry Court, North Lake",385000
 "9 Maydwell Way, Calista",276000
 "9 McCarthy Place, Noranda",505000
 "9 McCombe Avenue, Samson",492000
@@ -29686,7 +29552,6 @@ ADDRESS,PRICE
 "9 Moorland Way, Burns Beach",675000
 "9 Moseley Drive, The Vines",715000
 "9 Moseri Road, Roleystone",655000
-"9 Mudalla Way, Koongamia",151000
 "9 Mudlark Close, Langford",445000
 "9 Mullingar Close, Waterford",735000
 "9 Mullins Court, Iluka",1080000
@@ -30392,6 +30257,7 @@ ADDRESS,PRICE
 "99 Terrace Road, Guildford",700000
 "99 Unnaro Street, Hillman",335000
 "99 Waddington Crescent, Koondoola",305000
+"992 Great Northern Highway, Millendon",610000
 "995 Katharine Street, Bellevue",380000
 "99A Benara Road, Noranda",410000
 "99A Raleigh Street, Carlisle",415000

@@ -65,7 +65,6 @@ ADDRESS,SUBURB
 "1 Bull Place, Queens Park",Queens Park
 "1 Bynder Lane, Medina",Medina
 "1 Cadiz Way, Bullsbrook",Bullsbrook
-"1 Caladenia Way, Koongamia",Koongamia
 "1 Cam Court, Merriwa",Merriwa
 "1 Camden Boulevard, Aubin Grove",Aubin Grove
 "1 Cameron Street, Karrinyup",Karrinyup
@@ -175,7 +174,6 @@ ADDRESS,SUBURB
 "1 Fortune Street, Balcatta",Balcatta
 "1 Fourth Avenue, Rossmoyne",Rossmoyne
 "1 Fran Court, Merriwa",Merriwa
-"1 Frederic Street, Koongamia",Koongamia
 "1 Freedman Road, Menora",Menora
 "1 Gaffin Way, Kwinana Town Centre",Kwinana Town Centre
 "1 Gali Lane, City Beach",City Beach
@@ -763,7 +761,6 @@ ADDRESS,SUBURB
 "10 Bahama Way, Banksia Grove",Banksia Grove
 "10 Ballymote Gardens, Ridgewood",Ridgewood
 "10 Banchory Way, The Vines",The Vines
-"10 Banjine Road, Koongamia",Koongamia
 "10 Banksia Court, Bullsbrook",Bullsbrook
 "10 Barcelona Terrace, Hocking",Hocking
 "10 Barcroft Court, Atwell",Atwell
@@ -1181,7 +1178,6 @@ ADDRESS,SUBURB
 "10 Manyleaf Link, Banksia Grove",Banksia Grove
 "10 Mapleton Street, Stirling",Stirling
 "10 Mardella Street, Coolbinia",Coolbinia
-"10 Mardja Loop, Mardella",Mardella
 "10 Marengo Close, Aveley",Aveley
 "10 Marie Court, Atwell",Atwell
 "10 Marigold Place, Yangebup",Yangebup
@@ -1782,7 +1778,6 @@ ADDRESS,SUBURB
 "108 St Andrews Drive, Yanchep",Yanchep
 "108 Stoneham Road, Attadale",Attadale
 "108 The Boulevard, Floreat",Floreat
-"1085 Coulston Road, Boya",Boya
 "109 Ardleigh Crescent, Hamersley",Hamersley
 "109 Arnott Street, Trigg",Trigg
 "109 Balladong Loop, Carramar",Carramar
@@ -1809,7 +1804,6 @@ ADDRESS,SUBURB
 "109 Vincent Road, Sinagra",Sinagra
 "109 Welwyn Avenue, Salter Point",Salter Point
 "109 Winterfold Road, Coolbellup",Coolbellup
-"109 Wright Road, Mardella",Mardella
 "1095 Coulston Road, Boya",Boya
 "109A Moreing Road, Attadale",Attadale
 "109A Raleigh Street, Carlisle",Carlisle
@@ -2056,7 +2050,6 @@ ADDRESS,SUBURB
 "11 Council Road, Mundaring",Mundaring
 "11 Cowlishaw Rise, Parmelia",Parmelia
 "11 Crampton Elbow, Murdoch",Murdoch
-"11 Craven Road, Mahogany Creek",Mahogany Creek
 "11 Creaton Street, East Victoria Park",East Victoria Park
 "11 Crete Way, Alkimos",Alkimos
 "11 Criterium Place, Middle Swan",Middle Swan
@@ -2309,7 +2302,6 @@ ADDRESS,SUBURB
 "11 Manor Gardens, High Wycombe",High Wycombe
 "11 Mansfield Way, Piara Waters",Piara Waters
 "11 Manta Pass, Mindarie",Mindarie
-"11 Margaret Terrace, Walliston",Walliston
 "11 Marginata Close, Jane Brook",Jane Brook
 "11 Marion Way, Gooseberry Hill",Gooseberry Hill
 "11 Marjorie Street, Mullaloo",Mullaloo
@@ -2715,7 +2707,6 @@ ADDRESS,SUBURB
 "111 Stubbs Terrace, Daglish",Daglish
 "111 Tangadee Road, Golden Bay",Golden Bay
 "111 Willmott Drive, Cooloongup",Cooloongup
-"111 Wright Road, Mardella",Mardella
 "1115 Katharine Street, Bellevue",Bellevue
 "111A Drummond Street, Bedford",Bedford
 "111A Hampton Road, South Fremantle",South Fremantle
@@ -2909,7 +2900,6 @@ ADDRESS,SUBURB
 "118 Naturaliste Boulevard, Iluka",Iluka
 "118 PANNAGE Way, Brabham",Brabham
 "118 Paramatta Road, Doubleview",Doubleview
-"118 Paterson Street, Mundijong",Mundijong
 "118 Rosalie Street, Shenton Park",Shenton Park
 "118 Scott Street, Boya",Boya
 "118 The Broadview, Landsdale",Landsdale
@@ -3107,7 +3097,6 @@ ADDRESS,SUBURB
 "12 Burnettia Lane, Mount Claremont",Mount Claremont
 "12 Bursaria Crescent, Ferndale",Ferndale
 "12 Cabernet Loop, Pearsall",Pearsall
-"12 Caladenia Road, Walliston",Walliston
 "12 Caladenia Way, Koongamia",Koongamia
 "12 Calendia Way, Dayton",Dayton
 "12 Callistemon Close, Helena Valley",Helena Valley
@@ -3239,7 +3228,6 @@ ADDRESS,SUBURB
 "12 Ellesmere Road, Mount Lawley",Mount Lawley
 "12 Elm Close, Camillo",Camillo
 "12 Elstree Avenue, Menora",Menora
-"12 Eric Street, Hazelmere",Hazelmere
 "12 Ezekiel Avenue, Canning Vale",Canning Vale
 "12 Falkner Road, Harrisdale",Harrisdale
 "12 Fennell Rise, Darch",Darch
@@ -3413,7 +3401,6 @@ ADDRESS,SUBURB
 "12 Lombardy Street, Woodlands",Woodlands
 "12 Longwood Bend, Aubin Grove",Aubin Grove
 "12 Lookout Vista, Singleton",Singleton
-"12 Lowan Loop, Karawara",Karawara
 "12 Lucraft Gardens, Winthrop",Winthrop
 "12 Lutey Avenue, Daglish",Daglish
 "12 Lynn Street, Trigg",Trigg
@@ -3435,7 +3422,6 @@ ADDRESS,SUBURB
 "12 Marchamley Street, Carlisle",Carlisle
 "12 Mardella Street, Coolbinia",Coolbinia
 "12 Mardja Loop, Mardella",Mardella
-"12 Margaret Terrace, Walliston",Walliston
 "12 Marloo Street, Wattle Grove",Wattle Grove
 "12 Marraboor Place, Success",Success
 "12 Marsengo Road, Bateman",Bateman
@@ -3721,6 +3707,7 @@ ADDRESS,SUBURB
 "120 Cockman Cross, Stratton",Stratton
 "120 Drabble Road, City Beach",City Beach
 "120 Glen Iris Drive, Jandakot",Jandakot
+"120 Hardey Road, Glen Forrest",Glen Forrest
 "120 Herbert Road, Shenton Park",Shenton Park
 "120 Hill View Terrace, St James",St James
 "120 Hinchinbrook Avenue, Ridgewood",Ridgewood
@@ -3853,7 +3840,6 @@ ADDRESS,SUBURB
 "125 Stock Road, Attadale",Attadale
 "125 Tapping Way, Quinns Rocks",Quinns Rocks
 "125 Waddington Crescent, Koondoola",Koondoola
-"125 Wright Road, Mardella",Mardella
 "1250 Cook Street, Mount Helena",Mount Helena
 "125A Shakespeare Street, Mount Hawthorn",Mount Hawthorn
 "125A Stock Road, Attadale",Attadale
@@ -3914,7 +3900,6 @@ ADDRESS,SUBURB
 "128 Mirrabooka Avenue, Koondoola",Koondoola
 "128 Mullaloo Drive, Kallaroo",Kallaroo
 "128 Samson Street, White Gum Valley",White Gum Valley
-"128 Scott Street, Boya",Boya
 "128 Shakespeare Street, Mount Hawthorn",Mount Hawthorn
 "128 Willespie Drive, Pearsall",Pearsall
 "128 Yangebup Road, Yangebup",Yangebup
@@ -4026,7 +4011,6 @@ ADDRESS,SUBURB
 "13 Bedford Road, Ardross",Ardross
 "13 Belmont Close, Port Kennedy",Port Kennedy
 "13 Benjafield Way, Hamersley",Hamersley
-"13 Beor Way, Herne Hill",Herne Hill
 "13 Berkeley Way, Orelia",Orelia
 "13 Biarritz Pass, Port Kennedy",Port Kennedy
 "13 Bilcich Gardens, Spearwood",Spearwood
@@ -4096,7 +4080,6 @@ ADDRESS,SUBURB
 "13 Darius Drive, Kwinana Town Centre",Kwinana Town Centre
 "13 Darter Way, Maida Vale",Maida Vale
 "13 Davallia Road, Duncraig",Duncraig
-"13 Davey Road, Mundijong",Mundijong
 "13 Dawn Road, Walliston",Walliston
 "13 Dean Place, Lockridge",Lockridge
 "13 Debutante Close, Huntingdale",Huntingdale
@@ -4172,7 +4155,6 @@ ADDRESS,SUBURB
 "13 Honeypot Way, Churchlands",Churchlands
 "13 Hope Avenue, Salter Point",Salter Point
 "13 Horner Way, Herne Hill",Herne Hill
-"13 Hovea Crescent, Walliston",Walliston
 "13 Hoyle Road, Medina",Medina
 "13 Hubert Street, Guildford",Guildford
 "13 Hurstford Close, Peppermint Grove",Peppermint Grove
@@ -4491,7 +4473,6 @@ ADDRESS,SUBURB
 "132 Newborough Street, Karrinyup",Karrinyup
 "132 Orchid Avenue, Bennett Springs",Bennett Springs
 "132 Osmaston Road, Carine",Carine
-"132 Paterson Street, Mundijong",Mundijong
 "132 San Sebastian Boulevard, Port Kennedy",Port Kennedy
 "132 Santa Barbara Parade, Quinns Rocks",Quinns Rocks
 "132 SHREEVE ROAD, Canning Vale",Canning Vale
@@ -5007,7 +4988,6 @@ ADDRESS,SUBURB
 "14 Marble Boulevard, Wellard",Wellard
 "14 Marchamley Place, Carlisle",Carlisle
 "14 Marden Grange, Aveley",Aveley
-"14 Mardja Loop, Mardella",Mardella
 "14 Market Street, Guildford",Guildford
 "14 Marr Street, Myaree",Myaree
 "14 Marra Mews, Jane Brook",Jane Brook
@@ -5015,6 +4995,7 @@ ADDRESS,SUBURB
 "14 Marriot Turn, Currambine",Currambine
 "14 Marriott Road, Boya",Boya
 "14 Marshall Way, Samson",Samson
+"14 Massey Turn, Mundaring",Mundaring
 "14 Mathieson Avenue, Mosman Park",Mosman Park
 "14 Matta Way, Pearsall",Pearsall
 "14 Mayfair Street, Mount Claremont",Mount Claremont
@@ -5240,7 +5221,6 @@ ADDRESS,SUBURB
 "14 Waterton Way, Cooloongup",Cooloongup
 "14 Waterview Drive, Woodvale",Woodvale
 "14 Waterview Grove, Ellenbrook",Ellenbrook
-"14 Wattle Court, Mahogany Creek",Mahogany Creek
 "14 Waugh Street, North Perth",North Perth
 "14 Waverley Way, Parkwood",Parkwood
 "14 Wendo Court, Hillman",Hillman
@@ -5293,7 +5273,6 @@ ADDRESS,SUBURB
 "140 High Road, Riverton",Riverton
 "140 Jersey Street, Jolimont",Jolimont
 "140 Lakeside Drive, Helena Valley",Helena Valley
-"140 Lance Street, Sawyers Valley",Sawyers Valley
 "140 Lansdowne Road, Kensington",Kensington
 "140 McNeill Road, Champion Lakes",Champion Lakes
 "140 Medina Avenue, Medina",Medina
@@ -5512,8 +5491,6 @@ ADDRESS,SUBURB
 "15 Amethyst Approach, Wellard",Wellard
 "15 Andell Place, Redcliffe",Redcliffe
 "15 Anderton Retreat, Murdoch",Murdoch
-"15 Anne Avenue, Walliston",Walliston
-"15 Approach Road, Boya",Boya
 "15 Arabella Mews, Currambine",Currambine
 "15 Ardross Crescent, Coolbinia",Coolbinia
 "15 Argosy Place, Morley",Morley
@@ -5526,7 +5503,6 @@ ADDRESS,SUBURB
 "15 Austin Street, Shenton Park",Shenton Park
 "15 Autumn Crescent, Thornlie",Thornlie
 "15 Bacchante Circle, Ocean Reef",Ocean Reef
-"15 Baden Road, Bickley",Bickley
 "15 Badrick Street, Warwick",Warwick
 "15 Balfour Street, Huntingdale",Huntingdale
 "15 Balista Street, Riverton",Riverton
@@ -5611,7 +5587,6 @@ ADDRESS,SUBURB
 "15 CHAMBERLAIN PLACE, Heathridge",Heathridge
 "15 Charing Cross Road, Joondalup",Joondalup
 "15 Chatham Way, Harrisdale",Harrisdale
-"15 Christina Street, Hazelmere",Hazelmere
 "15 Chudleigh Street, Fremantle",Fremantle
 "15 Citrus Loop, South Lake",South Lake
 "15 Clarecastle Retreat, Mindarie",Mindarie
@@ -5679,7 +5654,6 @@ ADDRESS,SUBURB
 "15 Dulverton Close, Stratton",Stratton
 "15 Dulwich Place, Kingsley",Kingsley
 "15 Dumbarton Crescent, Menora",Menora
-"15 Duncan Place, Mahogany Creek",Mahogany Creek
 "15 Dunsfold Street, Butler",Butler
 "15 Dunster Way, Orelia",Orelia
 "15 Eaglemont Drive, Swan View",Swan View
@@ -5802,7 +5776,6 @@ ADDRESS,SUBURB
 "15 Jackadder Avenue, Hammond Park",Hammond Park
 "15 Jackson Road, Karawara",Karawara
 "15 James Street, Guildford",Guildford
-"15 James Street, Mariginiup",Mariginiup
 "15 Japonica Heights, Mirrabooka",Mirrabooka
 "15 Jersey Street, Jolimont",Jolimont
 "15 Jinda Road, Koongamia",Koongamia
@@ -5845,7 +5818,6 @@ ADDRESS,SUBURB
 "15 Las Ramblas Circle, Clarkson",Clarkson
 "15 Laughton Way, Leeming",Leeming
 "15 Laverick Street, Haynes",Haynes
-"15 Lawnbrook Road, Bickley",Bickley
 "15 Lefroy Road, Yanchep",Yanchep
 "15 Lenham Way, Marangaroo",Marangaroo
 "15 Lennard Street, Marmion",Marmion
@@ -5980,7 +5952,6 @@ ADDRESS,SUBURB
 "15 Prudhoe Mews, Ridgewood",Ridgewood
 "15 Pymore Crescent, Butler",Butler
 "15 Quarram Crescent, Burns Beach",Burns Beach
-"15 Rabone Way, Boya",Boya
 "15 Ragley Way, The Vines",The Vines
 "15 Railway Crescent, Herne Hill",Herne Hill
 "15 Rainham Avenue, Mindarie",Mindarie
@@ -6119,7 +6090,6 @@ ADDRESS,SUBURB
 "15 Willow Bank Entrance, Gwelup",Gwelup
 "15 Willow Road, Warwick",Warwick
 "15 Windarra Heights, Marangaroo",Marangaroo
-"15 Wingate Avenue, Hazelmere",Hazelmere
 "15 Wingrove Road, Langford",Langford
 "15 Winston Way, Madeley",Madeley
 "15 Woodlake Retreat, Kingsley",Kingsley
@@ -6211,7 +6181,6 @@ ADDRESS,SUBURB
 "154 Tenth Avenue, Inglewood",Inglewood
 "154A Kitchener Road, Alfred Cove",Alfred Cove
 "155 Barridale Drive, Kingsley",Kingsley
-"155 Bushmead Road, Hazelmere",Hazelmere
 "155 Duke Street, Scarborough",Scarborough
 "155 Glen Iris Drive, Jandakot",Jandakot
 "155 Stubbs Terrace, Daglish",Daglish
@@ -6350,7 +6319,6 @@ ADDRESS,SUBURB
 "16 Balfour Road, Swan View",Swan View
 "16 Banjine Road, Koongamia",Koongamia
 "16 Bantry Bend, Mindarie",Mindarie
-"16 Barang Circuit, Karawara",Karawara
 "16 Barbados Link, Langford",Langford
 "16 Barbarossa Drive, Caversham",Caversham
 "16 Barclay Way, Aveley",Aveley
@@ -7102,7 +7070,6 @@ ADDRESS,SUBURB
 "17 Allenswood Road, Greenwood",Greenwood
 "17 Allestree Road, Darlington",Darlington
 "17 Anderton Retreat, Murdoch",Murdoch
-"17 Anne Avenue, Walliston",Walliston
 "17 Anzac Place, Rockingham",Rockingham
 "17 Aquitania Close, Port Kennedy",Port Kennedy
 "17 Ardea Way, Baldivis",Baldivis
@@ -7359,7 +7326,6 @@ ADDRESS,SUBURB
 "17 Jacana Circle, Gwelup",Gwelup
 "17 Jack Road, Wattle Grove",Wattle Grove
 "17 Jade Street, Mount Richon",Mount Richon
-"17 James Street, Mariginiup",Mariginiup
 "17 Jameson Street, Mosman Park",Mosman Park
 "17 Japonica Heights, Mirrabooka",Mirrabooka
 "17 Jasmin Way, Maida Vale",Maida Vale
@@ -7458,7 +7424,6 @@ ADDRESS,SUBURB
 "17 Murchison Drive, Jane Brook",Jane Brook
 "17 Murchison Street, Coolbinia",Coolbinia
 "17 Mustang Drive, Henley Brook",Henley Brook
-"17 Nairn Road, Bickley",Bickley
 "17 Nambucca Way, Secret Harbour",Secret Harbour
 "17 Nance Street, Kewdale",Kewdale
 "17 Nanika Crescent, Joondalup",Joondalup
@@ -7664,7 +7629,6 @@ ADDRESS,SUBURB
 "170 Camberwarra Drive, Craigie",Craigie
 "170 Glen Forrest Drive, Glen Forrest",Glen Forrest
 "170 Glen Iris Drive, Jandakot",Jandakot
-"170 Pinjar Road, Mariginiup",Mariginiup
 "170 Samuel Street, Mount Helena",Mount Helena
 "170 Shaftesbury Avenue, Bedford",Bedford
 "170 Southacre Drive, Canning Vale",Canning Vale
@@ -7711,7 +7675,6 @@ ADDRESS,SUBURB
 "175 Ferndale Crescent, Ferndale",Ferndale
 "175 Honeywood Avenue, Wandi",Wandi
 "175 Pearce Street, Sawyers Valley",Sawyers Valley
-"175 Robinson Road, Mahogany Creek",Mahogany Creek
 "175 Sexton Street, Sawyers Valley",Sawyers Valley
 "175 Surrey Road, Rivervale",Rivervale
 "175A Elliott Road, Scarborough",Scarborough
@@ -8002,7 +7965,6 @@ ADDRESS,SUBURB
 "18 Hennessy Drive, Ashby",Ashby
 "18 Hickey Avenue, Daglish",Daglish
 "18 Hidcote Way, Pearsall",Pearsall
-"18 Hilltop Close, Mahogany Creek",Mahogany Creek
 "18 Honours Rise, Marangaroo",Marangaroo
 "18 Hooley Street, Swanbourne",Swanbourne
 "18 Horner Way, Herne Hill",Herne Hill
@@ -8495,7 +8457,6 @@ ADDRESS,SUBURB
 "19 Brendon Way, Karrinyup",Karrinyup
 "19 Bridgedale Close, Beldon",Beldon
 "19 Bristow Street, Haynes",Haynes
-"19 Broadway Road, Bickley",Bickley
 "19 Brookeby Heights, Leda",Leda
 "19 Brora Grove, Boya",Boya
 "19 Broula Road, Kalamunda",Kalamunda
@@ -8771,7 +8732,6 @@ ADDRESS,SUBURB
 "19 Monticello Meander, Landsdale",Landsdale
 "19 Monument Street, Mosman Park",Mosman Park
 "19 Mount Henry Road, Salter Point",Salter Point
-"19 Mudalla Way, Koongamia",Koongamia
 "19 Mulligan Way, Orelia",Orelia
 "19 Myerson Crescent, Maida Vale",Maida Vale
 "19 Narrier Close, South Guildford",South Guildford
@@ -8824,7 +8784,6 @@ ADDRESS,SUBURB
 "19 Riding Way, Bull Creek",Bull Creek
 "19 River Bank Boulevard, South Guildford",South Guildford
 "19 Rivett Way, Brentwood",Brentwood
-"19 Robertson Street, Hazelmere",Hazelmere
 "19 Robin Street, Menora",Menora
 "19 Rosedale Vista, Hocking",Hocking
 "19 Rotohine Place, Cooloongup",Cooloongup
@@ -9054,7 +9013,6 @@ ADDRESS,SUBURB
 "19B Gairloch Place, Joondalup",Joondalup
 "19B Galahad Way, Carine",Carine
 "19B Huntington Road, Coogee",Coogee
-"19B Jackson Road, Karawara",Karawara
 "19B Lombardy Street, Woodlands",Woodlands
 "19B Portree Way, Ardross",Ardross
 "19B Prince Street, Queens Park",Queens Park
@@ -9090,7 +9048,6 @@ ADDRESS,SUBURB
 "1A Harley Street, Highgate",Highgate
 "1A Hassett Street, Cloverdale",Cloverdale
 "1A Helen Street, Bellevue",Bellevue
-"1A Jinda Road, Koongamia",Koongamia
 "1A Johanson Promenade, Murdoch",Murdoch
 "1A Johnson Avenue, Guildford",Guildford
 "1a Kadina Street, Craigie",Craigie
@@ -9109,7 +9066,6 @@ ADDRESS,SUBURB
 "1A Thomas Street, Nedlands",Nedlands
 "1A Warnes Street, Maylands",Maylands
 "1A Webb Street, Rossmoyne",Rossmoyne
-"1A Wingate Avenue, Hazelmere",Hazelmere
 "1A York Avenue, Bentley",Bentley
 "1B Beryl Street, Balcatta",Balcatta
 "1B Charles Street, Karrinyup",Karrinyup
@@ -9204,7 +9160,6 @@ ADDRESS,SUBURB
 "2 Blancoa Lane, Stirling",Stirling
 "2 Blaxland Elbow, Seville Grove",Seville Grove
 "2 Bonita Way, Tapping",Tapping
-"2 Boongala Close, Karawara",Karawara
 "2 Bourke View, Jane Brook",Jane Brook
 "2 Bovell Gardens, Leeming",Leeming
 "2 Bowline Avenue, Alkimos",Alkimos
@@ -9275,7 +9230,6 @@ ADDRESS,SUBURB
 "2 Cooinda Close, Quinns Rocks",Quinns Rocks
 "2 Cook Place, Lesmurdie",Lesmurdie
 "2 Coolgardie Avenue, East Fremantle",East Fremantle
-"2 Corin Way, Wattleup",Wattleup
 "2 Cornell Place, East Cannington",East Cannington
 "2 Cottontree Lane, Bennett Springs",Bennett Springs
 "2 Cowara Way, Byford",Byford
@@ -9328,7 +9282,6 @@ ADDRESS,SUBURB
 "2 Elstree Avenue, Menora",Menora
 "2 Enlie Lane, Warnbro",Warnbro
 "2 Epping Grove, Kallaroo",Kallaroo
-"2 Eric Street, Hazelmere",Hazelmere
 "2 Erica Court, Stoneville",Stoneville
 "2 Est Lane, Ashby",Ashby
 "2 Esther Place, Gosnells",Gosnells
@@ -9405,7 +9358,6 @@ ADDRESS,SUBURB
 "2 Hayling Road, Iluka",Iluka
 "2 Hayward Road, Martin",Martin
 "2 Hazelmere Circus, Hazelmere",Hazelmere
-"2 Hazelmere Crescent, Hazelmere",Hazelmere
 "2 Hedges Retreat, Atwell",Atwell
 "2 Hedland Street, East Victoria Park",East Victoria Park
 "2 Hedley Street, Bentley",Bentley
@@ -9542,7 +9494,6 @@ ADDRESS,SUBURB
 "2 MCKENNA GLEN, Mount Claremont",Mount Claremont
 "2 McNeil Grove, Jarrahdale",Jarrahdale
 "2 Meldrum Way, Koondoola",Koondoola
-"2 Melinga Court, Karawara",Karawara
 "2 Melo Court, Heathridge",Heathridge
 "2 Mengler Avenue, Claremont",Claremont
 "2 Merion Place, Connolly",Connolly
@@ -9564,14 +9515,12 @@ ADDRESS,SUBURB
 "2 Morris Street, Beaconsfield",Beaconsfield
 "2 Morris Street, Darch",Darch
 "2 Moyle Way, Henley Brook",Henley Brook
-"2 Mudalla Way, Koongamia",Koongamia
 "2 Mudge Street, Myaree",Myaree
 "2 Muja Lane, Woodbridge",Woodbridge
 "2 Myhill Mews, Leda",Leda
 "2 Nandup Retreat, Swan View",Swan View
 "2 Naples Place, Secret Harbour",Secret Harbour
 "2 Napoli Avenue, Piara Waters",Piara Waters
-"2 Narla Place, Koongamia",Koongamia
 "2 Nash Street, Daglish",Daglish
 "2 Naturaliste Grove, Ballajura",Ballajura
 "2 Newell Cove, Joondalup",Joondalup
@@ -9604,6 +9553,7 @@ ADDRESS,SUBURB
 "2 Otram Way, Churchlands",Churchlands
 "2 Oxalis Grove, Beeliar",Beeliar
 "2 Palmer Street, Attadale",Attadale
+"2 Parker Road, Parkerville",Parkerville
 "2 Patenier Street, Ashby",Ashby
 "2 Patula Place, Menora",Menora
 "2 Pearson Street, Ashfield",Ashfield
@@ -9667,7 +9617,6 @@ ADDRESS,SUBURB
 "2 Serrata Way, Mirrabooka",Mirrabooka
 "2 Settler Place, Greenmount",Greenmount
 "2 Shannon Street, Yanchep",Yanchep
-"2 Sharyn Road, Walliston",Walliston
 "2 Shetland Rise, Kinross",Kinross
 "2 Shivery Fairway, Secret Harbour",Secret Harbour
 "2 Simmental Vale, Stratton",Stratton
@@ -10028,7 +9977,6 @@ ADDRESS,SUBURB
 "20 Cosmos Street, East Cannington",East Cannington
 "20 Courtland Crescent, Redcliffe",Redcliffe
 "20 Crake Street, Ascot",Ascot
-"20 Craven Road, Mahogany Creek",Mahogany Creek
 "20 Crossford Street, Thornlie",Thornlie
 "20 Croydon Street, Bellevue",Bellevue
 "20 Crystal Turn, Bennett Springs",Bennett Springs
@@ -10348,7 +10296,6 @@ ADDRESS,SUBURB
 "20 Villiers Way, Parkwood",Parkwood
 "20 Virago Street, Aveley",Aveley
 "20 Vista Drive, Parkerville",Parkerville
-"20 Vivian Way, Boya",Boya
 "20 Voltaire Crescent, Ridgewood",Ridgewood
 "20 Wade Street, Joondanna",Joondanna
 "20 Walanna Drive, Karawara",Karawara
@@ -10507,7 +10454,6 @@ ADDRESS,SUBURB
 "21 Ambleside Close, Balga",Balga
 "21 Ambleside Way, Canning Vale",Canning Vale
 "21 Ameer Way, Beeliar",Beeliar
-"21 Anne Avenue, Walliston",Walliston
 "21 Annie Street, Beaconsfield",Beaconsfield
 "21 Apsley Road, Willetton",Willetton
 "21 Arcadia Crescent, Bateman",Bateman
@@ -10547,7 +10493,6 @@ ADDRESS,SUBURB
 "21 Blue Mountain Link, Merriwa",Merriwa
 "21 Botanic Avenue, Banksia Grove",Banksia Grove
 "21 Bottega Place, Lesmurdie",Lesmurdie
-"21 Boya Crescent, Boya",Boya
 "21 Bradley Way, Lockridge",Lockridge
 "21 Bramley Way, Bibra Lake",Bibra Lake
 "21 Bristol Street, Warnbro",Warnbro
@@ -10901,7 +10846,6 @@ ADDRESS,SUBURB
 "21 Vincent Street, Nedlands",Nedlands
 "21 Vista Drive, Parkerville",Parkerville
 "21 Wahroonga Way, Greenwood",Greenwood
-"21 Wandarra Close, Karawara",Karawara
 "21 Wanliss Street, Jarrahdale",Jarrahdale
 "21 WARNER COURT, Manning",Manning
 "21 Warralong Crescent, Coolbinia",Coolbinia
@@ -11175,7 +11119,6 @@ ADDRESS,SUBURB
 "22 Dillwynia Bend, Banksia Grove",Banksia Grove
 "22 Dirk Hartog Road, Bull Creek",Bull Creek
 "22 Dolphin Way, Beldon",Beldon
-"22 Draper Road, Mahogany Creek",Mahogany Creek
 "22 Du Maurier Road, North Lake",North Lake
 "22 Duffield Avenue, Beaconsfield",Beaconsfield
 "22 Dulcet Link, Atwell",Atwell
@@ -11320,7 +11263,6 @@ ADDRESS,SUBURB
 "22 Manders Way, Singleton",Singleton
 "22 Mangosteen Drive, Forrestfield",Forrestfield
 "22 Manoora Court, Quinns Rocks",Quinns Rocks
-"22 Mardja Loop, Mardella",Mardella
 "22 Margaret Street, Wilson",Wilson
 "22 Marian Street, Innaloo",Innaloo
 "22 Market Street, Kensington",Kensington
@@ -11524,7 +11466,6 @@ ADDRESS,SUBURB
 "220 Bennett Springs Drive, Bennett Springs",Bennett Springs
 "220 Burniston Street, Scarborough",Scarborough
 "220 Epsom Avenue, Belmont",Belmont
-"220 Pickering Brook Road, Pickering Brook",Pickering Brook
 "220 Princess Road, Mount Helena",Mount Helena
 "220 Samuel Street, Mount Helena",Mount Helena
 "220 Wilding Street, Doubleview",Doubleview
@@ -11626,7 +11567,6 @@ ADDRESS,SUBURB
 "23 Alday Street, St James",St James
 "23 Alexander Drive, Menora",Menora
 "23 Alice Street, Bellevue",Bellevue
-"23 Allendale Entrance, North Lake",North Lake
 "23 Almond Avenue, Shoalwater",Shoalwater
 "23 Amalfi Crest, Yangebup",Yangebup
 "23 Angelica Way, Atwell",Atwell
@@ -11701,7 +11641,6 @@ ADDRESS,SUBURB
 "23 Chivalry Way, Thornlie",Thornlie
 "23 Clarence Street, Tuart Hill",Tuart Hill
 "23 Cleopatra Street, Palmyra",Palmyra
-"23 Clianthus Way, Koongamia",Koongamia
 "23 Clivia Heights, Sinagra",Sinagra
 "23 Clotilde Street, Mount Lawley",Mount Lawley
 "23 Clyde Road, Menora",Menora
@@ -11817,7 +11756,6 @@ ADDRESS,SUBURB
 "23 Jefferies Way, Leeming",Leeming
 "23 Jeffrey Loop, Brookdale",Brookdale
 "23 Jerrat Mews, Atwell",Atwell
-"23 Jinda Road, Koongamia",Koongamia
 "23 Johnson Crescent, Mullaloo",Mullaloo
 "23 Joudah Court, High Wycombe",High Wycombe
 "23 Kalamatta Way, Gooseberry Hill",Gooseberry Hill
@@ -11969,7 +11907,6 @@ ADDRESS,SUBURB
 "23 Seurat Loop, Ashby",Ashby
 "23 Shalimar Rise, Currambine",Currambine
 "23 Shield Road, Lesmurdie",Lesmurdie
-"23 Shirley Road, Walliston",Walliston
 "23 Sixth Avenue, Kensington",Kensington
 "23 Smith Street, Glen Forrest",Glen Forrest
 "23 Snowberry Retreat, Mirrabooka",Mirrabooka
@@ -12456,7 +12393,6 @@ ADDRESS,SUBURB
 "24 Rigby Avenue, Spearwood",Spearwood
 "24 Ripple Way, Bateman",Bateman
 "24 Riversdale Pass, Jandakot",Jandakot
-"24 Robertson Street, Hazelmere",Hazelmere
 "24 Rochester Way, Dianella",Dianella
 "24 Rochford Street, Canning Vale",Canning Vale
 "24 Rockdale Place, Lesmurdie",Lesmurdie
@@ -12521,7 +12457,6 @@ ADDRESS,SUBURB
 "24 Voltaire Crescent, Ridgewood",Ridgewood
 "24 Wadhurst Road, Butler",Butler
 "24 Wallsend Road, Woodbridge",Woodbridge
-"24 Wandarra Close, Karawara",Karawara
 "24 Warren Road, Maida Vale",Maida Vale
 "24 Waterhall Road, South Guildford",South Guildford
 "24 Waterhouse Meander, Burns Beach",Burns Beach
@@ -13389,7 +13324,6 @@ ADDRESS,SUBURB
 "26 Weldwood Road, Ocean Reef",Ocean Reef
 "26 Wentletrap Way, Mullaloo",Mullaloo
 "26 West End Parade, Canning Vale",Canning Vale
-"26 Westerway Terrace, North Lake",North Lake
 "26 Whiteside Street, Cloverdale",Cloverdale
 "26 Whitfeld Terrace, Winthrop",Winthrop
 "26 Wicks Street, Eden Hill",Eden Hill
@@ -13547,7 +13481,6 @@ ADDRESS,SUBURB
 "27 Citrus Loop, South Lake",South Lake
 "27 Clearwater Way, Singleton",Singleton
 "27 Clement Street, Swanbourne",Swanbourne
-"27 Clianthus Way, Koongamia",Koongamia
 "27 Cloister Avenue, Manning",Manning
 "27 Clyde Road, Menora",Menora
 "27 Cockman Way, Orelia",Orelia
@@ -13761,7 +13694,6 @@ ADDRESS,SUBURB
 "27 Strathclyde Circuit, Champion Lakes",Champion Lakes
 "27 Sullivan Road, Duncraig",Duncraig
 "27 Susetta Approach, Success",Success
-"27 Swan Road, Mahogany Creek",Mahogany Creek
 "27 Swiftlet Way, Gwelup",Gwelup
 "27 Talbot Drive, Kingsley",Kingsley
 "27 Tambora Bend, Madeley",Madeley
@@ -13791,13 +13723,11 @@ ADDRESS,SUBURB
 "27 Vivaldi Avenue, Stirling",Stirling
 "27 Viveash Road, Middle Swan",Middle Swan
 "27 Waldorf Ramble, Currambine",Currambine
-"27 Wangalla Road, Koongamia",Koongamia
 "27 Waterhouse Meander, Burns Beach",Burns Beach
 "27 Waterlily Drive, Stratton",Stratton
 "27 Watervista Place, Maylands",Maylands
 "27 Weld Road, Swan View",Swan View
 "27 Wellard Road, Calista",Calista
-"27 West Parade, Hazelmere",Hazelmere
 "27 Westerway Terrace, North Lake",North Lake
 "27 Weymouth Boulevard, Quinns Rocks",Quinns Rocks
 "27 Whistler Green, Brookdale",Brookdale
@@ -14061,7 +13991,6 @@ ADDRESS,SUBURB
 "28 Margaret Street, Ashfield",Ashfield
 "28 Marlin Way, Singleton",Singleton
 "28 Marmot Way, Ferndale",Ferndale
-"28 Marriott Road, Boya",Boya
 "28 Marsh Avenue, Manning",Manning
 "28 Mary Street, Hazelmere",Hazelmere
 "28 Mary Street, Watermans Bay",Watermans Bay
@@ -14120,7 +14049,6 @@ ADDRESS,SUBURB
 "28 Reen Street, Kewdale",Kewdale
 "28 Rickett Street, Haynes",Haynes
 "28 Ridge Street, South Perth",South Perth
-"28 Robertson Street, Hazelmere",Hazelmere
 "28 Robins Road, Kalamunda",Kalamunda
 "28 Romano Crescent, Iluka",Iluka
 "28 Roscommon Road, Floreat",Floreat
@@ -14315,7 +14243,6 @@ ADDRESS,SUBURB
 "29 Cerulean Road, Karnup",Karnup
 "29 Cincotta Loop, Beeliar",Beeliar
 "29 Clearwater Way, Singleton",Singleton
-"29 Clianthus Way, Koongamia",Koongamia
 "29 Clint Way, Calista",Calista
 "29 Clipson Crescent, Mundaring",Mundaring
 "29 Clive Street, Bicton",Bicton
@@ -14460,7 +14387,6 @@ ADDRESS,SUBURB
 "29 Queen Street, Bentley",Bentley
 "29 Queensbury Road, Joondalup",Joondalup
 "29 Radstock Circuit, Ridgewood",Ridgewood
-"29 Railway Crescent, Herne Hill",Herne Hill
 "29 Ralphs Street, Seville Grove",Seville Grove
 "29 Ranmere Way, Langford",Langford
 "29 Rawlinna Heights, Ballajura",Ballajura
@@ -14532,7 +14458,6 @@ ADDRESS,SUBURB
 "29 Wellard Road, Calista",Calista
 "29 Wellesley Way, Samson",Samson
 "29 Welstead Way, Hocking",Hocking
-"29 West Parade, Hazelmere",Hazelmere
 "29 Wexcombe Way, Aveley",Aveley
 "29 Whimbrel Parade, Bennett Springs",Bennett Springs
 "29 Whistler Green, Brookdale",Brookdale
@@ -14550,7 +14475,6 @@ ADDRESS,SUBURB
 "29/27 Piccadilly Circle, Joondalup",Joondalup
 "290 Cape Street, Yokine",Yokine
 "290 Samuel Street, Mount Helena",Mount Helena
-"290 Sexton Street, Sawyers Valley",Sawyers Valley
 "290 Walcott Street, Menora",Menora
 "290 Warton Road, Southern River",Southern River
 "2900 Strettle Road, Mahogany Creek",Mahogany Creek
@@ -14652,7 +14576,6 @@ ADDRESS,SUBURB
 "2A Thompson Street, North Perth",North Perth
 "2A Turley Court, Langford",Langford
 "2A Unwin Crescent, Salter Point",Salter Point
-"2A Wingate Avenue, Hazelmere",Hazelmere
 "2A Yalgoo Avenue, White Gum Valley",White Gum Valley
 "2A Yilgarn Street, Shenton Park",Shenton Park
 "2B Bonsall Place, Carine",Carine
@@ -14734,7 +14657,6 @@ ADDRESS,SUBURB
 "3 ATHENS Road, Wellard",Wellard
 "3 Atlantic Avenue, Iluka",Iluka
 "3 Atma Way, Iluka",Iluka
-"3 Audrey Street, Mahogany Creek",Mahogany Creek
 "3 Auks Rise, Ballajura",Ballajura
 "3 Avila Way, Alexander Heights",Alexander Heights
 "3 Avon Place, Warwick",Warwick
@@ -14761,7 +14683,6 @@ ADDRESS,SUBURB
 "3 Barnsley Street, Queens Park",Queens Park
 "3 Barunga Way, Craigie",Craigie
 "3 Baskerville Crescent, Baldivis",Baldivis
-"3 Baskerville Road, Mundijong",Mundijong
 "3 Baskir Way, Henley Brook",Henley Brook
 "3 Basle Way, Mindarie",Mindarie
 "3 Bass Close, East Cannington",East Cannington
@@ -14829,7 +14750,6 @@ ADDRESS,SUBURB
 "3 Britannia Place, Port Kennedy",Port Kennedy
 "3 Broadford Avenue, Butler",Butler
 "3 Broadhurst Crescent, Bateman",Bateman
-"3 Broadway Road, Bickley",Bickley
 "3 Brock Lane, Success",Success
 "3 Brolo Court, Stirling",Stirling
 "3 Bromley Road, Hilton",Hilton
@@ -14978,7 +14898,6 @@ ADDRESS,SUBURB
 "3 Dryandra Drive, Mirrabooka",Mirrabooka
 "3 Duart Road, Trigg",Trigg
 "3 Dumbarton Crescent, Menora",Menora
-"3 Duncan Place, Mahogany Creek",Mahogany Creek
 "3 Dunvegan Road, Applecross",Applecross
 "3 Durack Close, Bateman",Bateman
 "3 Durant Way, Piara Waters",Piara Waters
@@ -14996,7 +14915,6 @@ ADDRESS,SUBURB
 "3 Elmwood Court, Marangaroo",Marangaroo
 "3 Elton Way, Ashby",Ashby
 "3 Emerald Lane, Bullsbrook",Bullsbrook
-"3 Empire Road, Carmel",Carmel
 "3 Emu Road, Brookdale",Brookdale
 "3 Ennis Court, Orelia",Orelia
 "3 Ensign Dale, Kelmscott",Kelmscott
@@ -15164,7 +15082,6 @@ ADDRESS,SUBURB
 "3 Jensen Rise, Iluka",Iluka
 "3 Jida Cove, Huntingdale",Huntingdale
 "3 Jillman Way, Ferndale",Ferndale
-"3 Jinda Road, Koongamia",Koongamia
 "3 Jindabyne Street, Hilbert",Hilbert
 "3 Jingella Mews, Viveash",Viveash
 "3 Jitti Court, South Guildford",South Guildford
@@ -15302,7 +15219,6 @@ ADDRESS,SUBURB
 "3 Meteor Street, Beckenham",Beckenham
 "3 Metroliner Drive, Currambine",Currambine
 "3 Miami Beach Promenade, Iluka",Iluka
-"3 Michael Crescent, Boya",Boya
 "3 Michael Street, Beaconsfield",Beaconsfield
 "3 Middleham Boulevard, Orelia",Orelia
 "3 Millington Avenue, Daglish",Daglish
@@ -15397,7 +15313,6 @@ ADDRESS,SUBURB
 "3 Plumosa Way, Wattle Grove",Wattle Grove
 "3 Plumwood Avenue, Hammond Park",Hammond Park
 "3 Podger Way, Brookdale",Brookdale
-"3 Pope Mews, North Lake",North Lake
 "3 Portrush Way, Mindarie",Mindarie
 "3 Portsea Gardens, Jandakot",Jandakot
 "3 Portsmouth Street, Jindalee",Jindalee
@@ -15627,7 +15542,6 @@ ADDRESS,SUBURB
 "3 Williams Road, Coolbellup",Coolbellup
 "3 Willow Court, Cooloongup",Cooloongup
 "3 Willshire Way, Yangebup",Yangebup
-"3 Wilson Street, Wooroloo",Wooroloo
 "3 Winona Link, Banksia Grove",Banksia Grove
 "3 Winston Crescent, Viveash",Viveash
 "3 Wolfson Way, Piara Waters",Piara Waters
@@ -15958,7 +15872,6 @@ ADDRESS,SUBURB
 "30 Queenscliffe Road, Doubleview",Doubleview
 "30 Rae Road, Safety Bay",Safety Bay
 "30 Redgum Drive, Ballajura",Ballajura
-"30 Richardson Street, Mundijong",Mundijong
 "30 Richenda Court, Marangaroo",Marangaroo
 "30 Rickett Street, Haynes",Haynes
 "30 Ridgewood Boulevard, Ridgewood",Ridgewood
@@ -16040,7 +15953,6 @@ ADDRESS,SUBURB
 "302 Bennett Springs Drive, Bennett Springs",Bennett Springs
 "302 Lyon Road, Aubin Grove",Aubin Grove
 "302 Summerlakes Parade, Ballajura",Ballajura
-"3020 Strettle Road, Mahogany Creek",Mahogany Creek
 "3027 Albany Highway, Kelmscott",Kelmscott
 "303 Kalamunda Road, Maida Vale",Maida Vale
 "303 West Coast Drive, Trigg",Trigg
@@ -16346,7 +16258,6 @@ ADDRESS,SUBURB
 "31 Waterside Pass, Byford",Byford
 "31 Wavelea Street, Safety Bay",Safety Bay
 "31 Weddall Road, Lockridge",Lockridge
-"31 West Parade, Hazelmere",Hazelmere
 "31 Westerway Terrace, North Lake",North Lake
 "31 Westmorland Drive, Leeming",Leeming
 "31 Whitmore Terrace, Heathridge",Heathridge
@@ -16970,7 +16881,6 @@ ADDRESS,SUBURB
 "33 Woodley Crescent, Melville",Melville
 "33 Woolgar Way, Lockridge",Lockridge
 "33 Wundu Entrance, South Guildford",South Guildford
-"33 Wynne Street, Hazelmere",Hazelmere
 "33/20 Alday Street, St James",St James
 "330 Glen Forrest Drive, Glen Forrest",Glen Forrest
 "3315 Stoneville Road, Stoneville",Stoneville
@@ -17121,7 +17031,6 @@ ADDRESS,SUBURB
 "34 Froudist Circle, Southern River",Southern River
 "34 Garrong Close, Edgewater",Edgewater
 "34 Gawler Way, Calista",Calista
-"34 Gillon Street, Karawara",Karawara
 "34 Glennon Way, Rossmoyne",Rossmoyne
 "34 Gosford Meander, Ashby",Ashby
 "34 Grand Paradiso Parade, Merriwa",Merriwa
@@ -17208,7 +17117,6 @@ ADDRESS,SUBURB
 "34 Patricia Road, Kalamunda",Kalamunda
 "34 Pavilion Circle, The Vines",The Vines
 "34 Peaceful Vista, Harrisdale",Harrisdale
-"34 Peterborough Circle, North Lake",North Lake
 "34 Pinot Loop, Pearsall",Pearsall
 "34 Portchester Drive, Darch",Darch
 "34 Priestley Street, Embleton",Embleton
@@ -18232,7 +18140,6 @@ ADDRESS,SUBURB
 "38 Sandpiper Loop, Yangebup",Yangebup
 "38 Santa Barbara Parade, Quinns Rocks",Quinns Rocks
 "38 Saunders Street, North Beach",North Beach
-"38 School Road, Karragullen",Karragullen
 "38 Seapeak Road, Ocean Reef",Ocean Reef
 "38 Sebastian Crescent, Coolbellup",Coolbellup
 "38 Sennet Lane, Warnbro",Warnbro
@@ -19149,7 +19056,6 @@ ADDRESS,SUBURB
 "4 Manitoba Court, Joondalup",Joondalup
 "4 Mann Place, Roleystone",Roleystone
 "4 Mardella Street, Coolbinia",Coolbinia
-"4 Mardja Loop, Mardella",Mardella
 "4 Margaret Street, Ashfield",Ashfield
 "4 Marjorie Street, Mullaloo",Mullaloo
 "4 Marlborough Way, Quinns Rocks",Quinns Rocks
@@ -19192,7 +19098,6 @@ ADDRESS,SUBURB
 "4 Minden Rise, Sorrento",Sorrento
 "4 Mirfield Street, Roleystone",Roleystone
 "4 Mission Place, Cooloongup",Cooloongup
-"4 Mitchell Street, Wooroloo",Wooroloo
 "4 Mokutu Court, Quinns Rocks",Quinns Rocks
 "4 Montague Street, Secret Harbour",Secret Harbour
 "4 Montego Rise, Iluka",Iluka
@@ -19932,7 +19837,6 @@ ADDRESS,SUBURB
 "41 Haig Street, Ashfield",Ashfield
 "41 Hale Street, Watermans Bay",Watermans Bay
 "41 Halifax Boulevard, Mindarie",Mindarie
-"41 Halleendale Road, Walliston",Walliston
 "41 Halvorson Road, Morley",Morley
 "41 Hartwell Parade, Jandakot",Jandakot
 "41 Heath Road, Roleystone",Roleystone
@@ -20008,7 +19912,6 @@ ADDRESS,SUBURB
 "41 Samson Street, White Gum Valley",White Gum Valley
 "41 Santa Monica Parade, Iluka",Iluka
 "41 Scanlon Way, Lockridge",Lockridge
-"41 Scott Street, Koongamia",Koongamia
 "41 Seashells Crescent, Singleton",Singleton
 "41 Selby Street, Daglish",Daglish
 "41 Shallcross Street, Yangebup",Yangebup
@@ -20797,7 +20700,6 @@ ADDRESS,SUBURB
 "45 Marshall Way, Samson",Samson
 "45 Matheson Road, Applecross",Applecross
 "45 Mayflower Crescent, Craigie",Craigie
-"45 Mayo Road, Wooroloo",Wooroloo
 "45 Mayor Road, Coogee",Coogee
 "45 McKenzie Street, Wembley",Wembley
 "45 McLean Road, Canning Vale",Canning Vale
@@ -20954,7 +20856,6 @@ ADDRESS,SUBURB
 "46 John Forrest Circuit, Bertram",Bertram
 "46 Kemmish Avenue, Parmelia",Parmelia
 "46 Kimberley Street, West Leederville",West Leederville
-"46 Kirkstall Way, Sawyers Valley",Sawyers Valley
 "46 Knowles Street, Balcatta",Balcatta
 "46 Koondoola Avenue, Koondoola",Koondoola
 "46 Lakefront Circle, The Vines",The Vines
@@ -21625,7 +21526,6 @@ ADDRESS,SUBURB
 "5 Armada Close, Port Kennedy",Port Kennedy
 "5 Armstrong Road, Wilson",Wilson
 "5 Ashfield Parade, Ashfield",Ashfield
-"5 Ashstead Street, Sawyers Valley",Sawyers Valley
 "5 Ashurst Way, Hocking",Hocking
 "5 Athenny Way, Darch",Darch
 "5 Atkinson Court, Stratton",Stratton
@@ -21645,7 +21545,6 @@ ADDRESS,SUBURB
 "5 Banksia Road, Camillo",Camillo
 "5 Banool Crescent, City Beach",City Beach
 "5 Banyan Close, Marangaroo",Marangaroo
-"5 Barang Circuit, Karawara",Karawara
 "5 Barbados Link, Langford",Langford
 "5 Barcoo Mews, South Guildford",South Guildford
 "5 Bardoc Court, Hillman",Hillman
@@ -22064,7 +21963,6 @@ ADDRESS,SUBURB
 "5 Keightly Corner, Jane Brook",Jane Brook
 "5 Kemp Court, Helena Valley",Helena Valley
 "5 Kennedy Street, Melville",Melville
-"5 Kennedya Road, Walliston",Walliston
 "5 Kestrel Circle, Brookdale",Brookdale
 "5 Keswick Way, Waikiki",Waikiki
 "5 Kianga Crescent, Burns Beach",Burns Beach
@@ -22150,7 +22048,6 @@ ADDRESS,SUBURB
 "5 McPherson Street, Menora",Menora
 "5 Meadowbank Terrace, South Lake",South Lake
 "5 Meelah Road, City Beach",City Beach
-"5 Meelah Way, Koongamia",Koongamia
 "5 Meelup Way, Ridgewood",Ridgewood
 "5 Meenaar Crescent, Coolbinia",Coolbinia
 "5 Meere Lane, Clarkson",Clarkson
@@ -22190,7 +22087,6 @@ ADDRESS,SUBURB
 "5 Morfontaine Parade, Port Kennedy",Port Kennedy
 "5 Morgan Road, Seville Grove",Seville Grove
 "5 Mount Park Way, Canning Vale",Canning Vale
-"5 Mudalla Way, Koongamia",Koongamia
 "5 Mudlark Close, Langford",Langford
 "5 Mundanup Close, Kelmscott",Kelmscott
 "5 Munja Street, Golden Bay",Golden Bay
@@ -22458,7 +22354,6 @@ ADDRESS,SUBURB
 "5 Vista Drive, Parkerville",Parkerville
 "5 Vista Street, Kensington",Kensington
 "5 Vitis Chase, Ashby",Ashby
-"5 Vivian Way, Boya",Boya
 "5 Volante Elbow, Ocean Reef",Ocean Reef
 "5 Voyager Link, Ellenbrook",Ellenbrook
 "5 Wadham Link, Piara Waters",Piara Waters
@@ -22990,7 +22885,6 @@ ADDRESS,SUBURB
 "52 Patterson Drive, Middle Swan",Middle Swan
 "52 Pennlake Drive, Spearwood",Spearwood
 "52 Periwinkle Way, Parkwood",Parkwood
-"52 Peterborough Circle, North Lake",North Lake
 "52 Pitt Street, St James",St James
 "52 Prinsep Road, Jandakot",Jandakot
 "52 Raglan Road, Mount Lawley",Mount Lawley
@@ -23131,7 +23025,6 @@ ADDRESS,SUBURB
 "53 Roxburgh Circle, Kinross",Kinross
 "53 San Teodoro Avenue, Sinagra",Sinagra
 "53 Sanctuary Gardens, Ridgewood",Ridgewood
-"53 Scott Street, Koongamia",Koongamia
 "53 Simpson Drive, Padbury",Padbury
 "53 Sixth Road, Armadale",Armadale
 "53 Spring Avenue, Midland",Midland
@@ -23629,7 +23522,6 @@ ADDRESS,SUBURB
 "57 Kawana Avenue, Maddington",Maddington
 "57 Kingswood Street, Mount Helena",Mount Helena
 "57 Kinkuna Way, City Beach",City Beach
-"57 Kirkstall Way, Sawyers Valley",Sawyers Valley
 "57 Kooyong Road, Rivervale",Rivervale
 "57 Langler Street, East Victoria Park",East Victoria Park
 "57 Lannam Road, Hilbert",Hilbert
@@ -23896,7 +23788,6 @@ ADDRESS,SUBURB
 "59 Tomah Road, Wattle Grove",Wattle Grove
 "59 Torquata Boulevard, Helena Valley",Helena Valley
 "59 Twilight Circuit, Ridgewood",Ridgewood
-"59 Valencia Road, Carmel",Carmel
 "59 Villatella Gardens, Piara Waters",Piara Waters
 "59 Walter Padbury Boulevard, Padbury",Padbury
 "59 Watkins Loop, Tapping",Tapping
@@ -24860,7 +24751,6 @@ ADDRESS,SUBURB
 "6 Velvet Way, Banksia Grove",Banksia Grove
 "6 Verdin Close, Maida Vale",Maida Vale
 "6 Verrado Way, Clarkson",Clarkson
-"6 Verticordia Road, Walliston",Walliston
 "6 Verton Drive, Shelley",Shelley
 "6 Victoria Parade, Midvale",Midvale
 "6 Viewpointe Cove, Ballajura",Ballajura
@@ -24985,7 +24875,6 @@ ADDRESS,SUBURB
 "6/73 Stalker Road, Gosnells",Gosnells
 "6/82 Forrest Street, South Perth",South Perth
 "60 Alfreda Avenue, Morley",Morley
-"60 Allendale Entrance, North Lake",North Lake
 "60 Amherst Road, Woodbridge",Woodbridge
 "60 Archidamus Road, Coolbellup",Coolbellup
 "60 Ashbourne Avenue, Ridgewood",Ridgewood
@@ -25159,7 +25048,6 @@ ADDRESS,SUBURB
 "61 Kingswood Street, Mount Helena",Mount Helena
 "61 Kitchener Street, Trigg",Trigg
 "61 La Fayette Boulevard, Bibra Lake",Bibra Lake
-"61 Lakes Road, Hazelmere",Hazelmere
 "61 Lakeside Drive, Joondalup",Joondalup
 "61 Letsom Way, Langford",Langford
 "61 Lindsay Beach Boulevard, Yanchep",Yanchep
@@ -25294,7 +25182,6 @@ ADDRESS,SUBURB
 "62 Parktree Avenue, Yanchep",Yanchep
 "62 Parnell Avenue, Marmion",Marmion
 "62 Paterson Street, Mundijong",Mundijong
-"62 Peterborough Circle, North Lake",North Lake
 "62 Porongurup Drive, Clarkson",Clarkson
 "62 Portwine Avenue, Byford",Byford
 "62 Prinsep Road, Jandakot",Jandakot
@@ -25409,7 +25296,6 @@ ADDRESS,SUBURB
 "63 Rosinski Circle, Tapping",Tapping
 "63 Sanderling Drive, Thornlie",Thornlie
 "63 Sandown Circle, Henley Brook",Henley Brook
-"63 Scott Street, Koongamia",Koongamia
 "63 Sedgeland Way, Ascot",Ascot
 "63 Sicklemore Road, Parmelia",Parmelia
 "63 Slater Court, Kardinya",Kardinya
@@ -25562,7 +25448,6 @@ ADDRESS,SUBURB
 "65 Delgado Parade, Iluka",Iluka
 "65 Drummond Gardens, Helena Valley",Helena Valley
 "65 Feakle Bend, Ridgewood",Ridgewood
-"65 First Avenue, Bickley",Bickley
 "65 First Avenue, Rossmoyne",Rossmoyne
 "65 Flora Terrace, Watermans Bay",Watermans Bay
 "65 Gabell Way, Koondoola",Koondoola
@@ -26029,7 +25914,6 @@ ADDRESS,SUBURB
 "7 Amethyst Place, Maida Vale",Maida Vale
 "7 Amherst Road, Woodbridge",Woodbridge
 "7 Anadara Place, Mullaloo",Mullaloo
-"7 Anne Avenue, Walliston",Walliston
 "7 Anstey Street, Mundijong",Mundijong
 "7 Antrim Place, Beckenham",Beckenham
 "7 Aquamarine Street, Eglinton",Eglinton
@@ -26254,7 +26138,6 @@ ADDRESS,SUBURB
 "7 Ellen Street, Mount Nasura",Mount Nasura
 "7 Ellerby Way, Koondoola",Koondoola
 "7 Ellis Court, Medina",Medina
-"7 Emile Court, North Lake",North Lake
 "7 Entente Terrace, Atwell",Atwell
 "7 Erina Way, Ridgewood",Ridgewood
 "7 Eriskay Terrace, Henley Brook",Henley Brook
@@ -26386,7 +26269,6 @@ ADDRESS,SUBURB
 "7 Honeypot Way, Churchlands",Churchlands
 "7 Hope Street, Watermans Bay",Watermans Bay
 "7 Hope Street, White Gum Valley",White Gum Valley
-"7 Hovea Court, Mahogany Creek",Mahogany Creek
 "7 Howe Street, Beeliar",Beeliar
 "7 Howell Court, Guildford",Guildford
 "7 Hubble Parkway, Clarkson",Clarkson
@@ -26474,7 +26356,6 @@ ADDRESS,SUBURB
 "7 Larch Place, Forrestfield",Forrestfield
 "7 Larkin Court, Medina",Medina
 "7 Lavally Way, Darch",Darch
-"7 Lawnbrook Road, Bickley",Bickley
 "7 Leach Street, Marmion",Marmion
 "7 Leawood Crescent, Boya",Boya
 "7 Leighfield Road, Hilbert",Hilbert
@@ -26516,7 +26397,6 @@ ADDRESS,SUBURB
 "7 Margaret Road, Secret Harbour",Secret Harbour
 "7 Margaret Street, Ashfield",Ashfield
 "7 Marlock Court, Mirrabooka",Mirrabooka
-"7 Marriott Road, Boya",Boya
 "7 Martin Road, Sorrento",Sorrento
 "7 Maryport Way, Butler",Butler
 "7 Masefield Avenue, North Lake",North Lake
@@ -26668,7 +26548,6 @@ ADDRESS,SUBURB
 "7 Reservoir Close, Mosman Park",Mosman Park
 "7 Richard Close, Waikiki",Waikiki
 "7 Rickett Street, Haynes",Haynes
-"7 Ridgeway Place, Mahogany Creek",Mahogany Creek
 "7 Riverina Drive, Ascot",Ascot
 "7 Roanoke Grove, Connolly",Connolly
 "7 Robert Street, Como",Como
@@ -26967,7 +26846,6 @@ ADDRESS,SUBURB
 "70 Hardy Road, Ashfield",Ashfield
 "70 Huntingdale Crescent, Connolly",Connolly
 "70 Huntingdale Road, Huntingdale",Huntingdale
-"70 Jinda Road, Koongamia",Koongamia
 "70 Kathleen Street, Bassendean",Bassendean
 "70 Kennedy Street, Alfred Cove",Alfred Cove
 "70 King Road, Beechboro",Beechboro
@@ -26993,7 +26871,6 @@ ADDRESS,SUBURB
 "70 Swan Street, Guildford",Guildford
 "70 Terrace Road, Guildford",Guildford
 "70 Tokara Avenue, Henley Brook",Henley Brook
-"70 Walanna Drive, Karawara",Karawara
 "70 Wanaping Road, Kenwick",Kenwick
 "70 Wanstead Vista, Bertram",Bertram
 "70 Warner Road, Parmelia",Parmelia
@@ -27003,7 +26880,6 @@ ADDRESS,SUBURB
 "70 Willcox Street, Chidlow",Chidlow
 "70 Ypres Road, Camillo",Camillo
 "704 Jarrahdale Road, Jarrahdale",Jarrahdale
-"705 Jacoby Street, Mahogany Creek",Mahogany Creek
 "70A Calista Avenue, Calista",Calista
 "70A Vahland Avenue, Riverton",Riverton
 "70A Waddell Road, Bicton",Bicton
@@ -27454,7 +27330,6 @@ ADDRESS,SUBURB
 "77 Napier Street, Cottesloe",Cottesloe
 "77 Orchid Avenue, Bennett Springs",Bennett Springs
 "77 Peet Crescent, Trigg",Trigg
-"77 Peterborough Circle, North Lake",North Lake
 "77 Point Walter Road, Bicton",Bicton
 "77 Raymond Street, Yokine",Yokine
 "77 Reserve Street, Wembley",Wembley
@@ -27573,7 +27448,6 @@ ADDRESS,SUBURB
 "79 Giles Avenue, Padbury",Padbury
 "79 Glen Iris Drive, Jandakot",Jandakot
 "79 Hartfield Road, Forrestfield",Forrestfield
-"79 Kardan Circuit, Karawara",Karawara
 "79 Keehner Entrance, Martin",Martin
 "79 Lawley Crescent, Mount Lawley",Mount Lawley
 "79 Markwell Avenue, Haynes",Haynes
@@ -28163,7 +28037,6 @@ ADDRESS,SUBURB
 "8 Latham Street, Ashfield",Ashfield
 "8 Lautoka Rise, Mindarie",Mindarie
 "8 Laverick Street, Haynes",Haynes
-"8 Lawnbrook Road, Bickley",Bickley
 "8 Layman Street, Booragoon",Booragoon
 "8 Leece Place, Booragoon",Booragoon
 "8 Leeder Street, Glendalough",Glendalough
@@ -28223,7 +28096,6 @@ ADDRESS,SUBURB
 "8 Minstrell Road, Bertram",Bertram
 "8 Mintern Court, Thornlie",Thornlie
 "8 Mirreen Court, Karawara",Karawara
-"8 Mitchell Street, Wooroloo",Wooroloo
 "8 Mitford Grove, Port Kennedy",Port Kennedy
 "8 Mitra Loop, Bennett Springs",Bennett Springs
 "8 Moir Place, Midvale",Midvale
@@ -28574,7 +28446,6 @@ ADDRESS,SUBURB
 "8/9 Anstey Street, Claremont",Claremont
 "8/99 Stafford Road, Kenwick",Kenwick
 "80 Alderbury Street, Floreat",Floreat
-"80 Almeria Parade, Upper Swan",Upper Swan
 "80 Arthur Road, Wattle Grove",Wattle Grove
 "80 Barnevelder Bend, Southern River",Southern River
 "80 Bayside Boulevard, Port Kennedy",Port Kennedy
@@ -28665,7 +28536,6 @@ ADDRESS,SUBURB
 "81 View Terrace, East Fremantle",East Fremantle
 "81/177 Dampier Avenue, Kallaroo",Kallaroo
 "81/23 Junction Boulevard, Cockburn Central",Cockburn Central
-"815 Coulston Road, Boya",Boya
 "81A Alfred Road, Mount Claremont",Mount Claremont
 "81A Glenelg Avenue, Wembley Downs",Wembley Downs
 "81a Howick Street, Lathlain",Lathlain
@@ -29353,7 +29223,6 @@ ADDRESS,SUBURB
 "9 Corsair Close, Port Kennedy",Port Kennedy
 "9 Cortona Grove, Sinagra",Sinagra
 "9 Corvette Way, Landsdale",Landsdale
-"9 Cotrell Road, Carmel",Carmel
 "9 Covenham Crescent, Aveley",Aveley
 "9 Cox Court, Willagee",Willagee
 "9 Crabtree Street, Alexander Heights",Alexander Heights
@@ -29480,7 +29349,6 @@ ADDRESS,SUBURB
 "9 Guernsey Court, Stratton",Stratton
 "9 Hadley Place, Karrinyup",Karrinyup
 "9 Hakea Road, Woodlands",Woodlands
-"9 Halleendale Road, Walliston",Walliston
 "9 Hamlet Close, Beldon",Beldon
 "9 Hanlin Way, Samson",Samson
 "9 Harris Place, Jarrahdale",Jarrahdale
@@ -29528,7 +29396,6 @@ ADDRESS,SUBURB
 "9 Ivythorne Grove, Kiara",Kiara
 "9 Jacana Circle, Gwelup",Gwelup
 "9 James Avenue, Hazelmere",Hazelmere
-"9 James Street, Mariginiup",Mariginiup
 "9 Jandoo Street, Kenwick",Kenwick
 "9 Japonica Way, Murdoch",Murdoch
 "9 Jarvis Place, Leeming",Leeming
@@ -29652,7 +29519,6 @@ ADDRESS,SUBURB
 "9 Mataitai Loop, Cooloongup",Cooloongup
 "9 Matson Street, Medina",Medina
 "9 Matta Way, Pearsall",Pearsall
-"9 Mayberry Court, North Lake",North Lake
 "9 Maydwell Way, Calista",Calista
 "9 McCarthy Place, Noranda",Noranda
 "9 McCombe Avenue, Samson",Samson
@@ -29686,7 +29552,6 @@ ADDRESS,SUBURB
 "9 Moorland Way, Burns Beach",Burns Beach
 "9 Moseley Drive, The Vines",The Vines
 "9 Moseri Road, Roleystone",Roleystone
-"9 Mudalla Way, Koongamia",Koongamia
 "9 Mudlark Close, Langford",Langford
 "9 Mullingar Close, Waterford",Waterford
 "9 Mullins Court, Iluka",Iluka
@@ -30392,6 +30257,7 @@ ADDRESS,SUBURB
 "99 Terrace Road, Guildford",Guildford
 "99 Unnaro Street, Hillman",Hillman
 "99 Waddington Crescent, Koondoola",Koondoola
+"992 Great Northern Highway, Millendon",Millendon
 "995 Katharine Street, Bellevue",Bellevue
 "99A Benara Road, Noranda",Noranda
 "99A Raleigh Street, Carlisle",Carlisle
