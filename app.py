@@ -71,9 +71,16 @@ def home():
 #################################################
 
 
-@app.route("/leafletmap")
+@app.route("/analysis")
 def map_page():
-    return render_template("leaflet_map.html")
+    return render_template("index.html")
+
+######################
+
+
+# @app.route("/leafletmap")
+# def map_page():
+#     return render_template("leaflet_map.html")
 
 ######################
 
@@ -101,9 +108,9 @@ def map_func():
 #################################################
 
 
-@app.route("/houseAge")
-def age_page():
-    return render_template("house_age.html")
+# @app.route("/houseAge")
+# def age_page():
+#     return render_template("house_age.html")
 
 ######################
 
@@ -131,9 +138,9 @@ def age_func():
 #################################################
 
 
-@app.route("/bedrooms")
-def bedrooms_page():
-    return render_template("bedrooms.html")
+# @app.route("/bedrooms")
+# def bedrooms_page():
+#     return render_template("bedrooms.html")
 
 ######################
 
@@ -161,9 +168,9 @@ def bedrooms_func():
 #################################################
 
 
-@app.route("/distance")
-def distance_page():
-    return render_template("distance.html")
+# @app.route("/distance")
+# def distance_page():
+#     return render_template("distance.html")
 
 ######################
 
@@ -191,9 +198,9 @@ def distance_func():
 #################################################
 
 
-@app.route("/suburb")
-def suburb_page():
-    return render_template("suburb.html")
+# @app.route("/suburb")
+# def suburb_page():
+#     return render_template("suburb.html")
 
 ######################
 

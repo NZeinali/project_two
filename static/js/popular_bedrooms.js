@@ -1,7 +1,7 @@
 
 
     // Read CSV
-    d3.csv("./csv/perth_properties.csv").then(function(houseData) {
+    d3.csv("./csv/cleaned_perth_market.csv").then(function(houseData) {
         console.log(houseData);
         houseData.forEach(house => {
             house.LAND_AREA = +house.LAND_AREA;
