@@ -85,9 +85,9 @@ def map_page():
 ######################
 
 
-# @app.route("/resource")
-# def table_page():
-#     return render_template("data.html")
+@app.route("/resource")
+def table_page():
+    return render_template("table.html")
 
 ######################
 

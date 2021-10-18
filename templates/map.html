@@ -15,9 +15,78 @@
 
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
+
+    <!-- Bootstrap stylesheet -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+      integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
+      crossorigin="anonymous"
+    />
   </head>
 
   <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a
+          class="btn btn-primary"
+          href="/analysis"
+          role="button"
+          style="background-color: #14a11b; color: white; font-weight: bolder"
+          >Home
+        </a>
+        <!--  In small screens, navbar collapses to a button  -->
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto">
+            <!-- <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+                style="color: black"
+              >
+                Plots
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="visualisations/max_temp.html"
+                  >Max Temp</a
+                >
+                <a class="dropdown-item" href="visualisations/humidity.html"
+                  >Humidity</a
+                >
+                <a class="dropdown-item" href="visualisations/cloudiness.html"
+                  >Cloudiness</a
+                >
+                <a class="dropdown-item" href="visualisations/wind_speed.html"
+                  >Wind Speed</a
+                >
+              </div>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" style="color: black" href="leafletmap">Map</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" style="color: black" href="/resource">Data</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
     <!-- The div where we will inject our map -->
     <div id="map"></div>
 

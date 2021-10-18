@@ -8,7 +8,7 @@ th, td {
   position: relative;
   display: inline-block;
   width: 100%;
-  height: 5%;
+  height: 10%;
   top: 0;
   right: 0;
   bottom: 0;
@@ -25,3 +25,4 @@ html {
 .table-responsive {
   max-height: 500px;
 }
+

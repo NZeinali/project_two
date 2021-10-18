@@ -36,14 +36,15 @@
   </head>
 
   <body>
+    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         <a
           class="btn btn-primary"
-          href="index.html"
+          href="/analysis"
           role="button"
           style="background-color: #14a11b; color: white; font-weight: bolder"
-          >Latitude
+          >Home
         </a>
         <!--  In small screens, navbar collapses to a button  -->
         <button
@@ -59,7 +60,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto">
-            <li class="nav-item dropdown">
+            <!-- <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -86,22 +87,12 @@
                   >Wind Speed</a
                 >
               </div>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" style="color: black" href="leafletmap">Map</a>
             </li>
             <li class="nav-item">
-              <a
-                class="nav-link"
-                style="color: black"
-                href="visualisations/comparison.html"
-                >Comparison</a
-              >
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link"
-                style="color: black"
-                href="visualisations/data.html"
-                >Data</a
-              >
+              <a class="nav-link" style="color: black" href="/resource">Data</a>
             </li>
           </ul>
         </div>
@@ -110,68 +101,33 @@
 
     <!-- Navbar -->
 
-    <!-- Resource Table -->
-    <!-- <div class="container">
-      <div class="table-responsive">
-        <table class="table table-striped">
-          <thead>
-            <tr style="text-align: right">
-              <th>ADDRESS</th>
-              <th>SUBURB</th>
-              <th>PRICE</th>
-              <th>BEDROOMS</th>
-              <th>LAND_AREA</th>
-              <th>BUILD_YEAR</th>
-              <th>CBD_DIST</th>
-              <th>NEAREST_STN</th>
-              <th>NEAREST_STN_DIST</th>
-              <th>LATITUDE</th>
-              <th>LONGITUDE</th>
-              <th>NEAREST_SCH</th>
-              <th>NEAREST_SCH_DIST</th>
-              <th>YEAR_SOLD</th>
-            </tr>
-          </thead>
-          <tbody>
-            {% for data in table_list %}
-            <tr>
-              <td>{{ data.Address }}</td>
-              <td>{{ data.Suburb }}</td>
-              <td>{{ data.Price }}</td>
-              <td>{{ data.Bedrooms }}</td>
-              <td>{{ data.Land_Area }}</td>
-              <td>{{ data.Build_Year }}</td>
-              <td>{{ data.CBD_Dist }}</td>
-              <td>{{ data.Nearest_STN }}</td>
-              <td>{{ data.Nearest_STN_Dist }}</td>
-              <td>{{ data.Latitude }}</td>
-              <td>{{ data.Longitude }}</td>
-              <td>{{ data.Nearest_SCH }}</td>
-              <td>{{ data.Nearest_SCH_Dist }}</td>
-              <td>{{ data.Year_Sold }}</td>
-            </tr>
-            {% endfor %}
-          </tbody>
-        </table>
-      </div>
-    </div> -->
-
     <!-- Granim Section -->
 
     <canvas id="canvas-basic"></canvas>
 
     <!-- <div id="table"></div> -->
-    <div id="example-table"></div>
+    <!-- <div id="resource-table"></div> -->
 
     <!-- Section for the plot  -->
-    <div class="container">
-      <!-- <canvas id="canvas-basic"></canvas> -->
 
+    <div class="container-fluid">
+      <div class="row align-items-center">
+        <div class="col-8">
+          <!-- <div class="container"> -->
+          <div id="hist_landsize"></div>
+          <!-- </div> -->
+        </div>
+
+        <div class="col-4">One of three columns</div>
+      </div>
+    </div>
+
+    <div class="container">
       <div id="hist_landsize"></div>
     </div>
-    <div class="container">
+    <!-- <div class="container">
       <div id="hist_bedroom"></div>
-    </div>
+    </div> -->
     <div class="container">
       <canvas id="bar-popular-bedrooms"></canvas>
     </div>
@@ -189,7 +145,8 @@
 
     <!-- <div id="leaflet_map"></div> -->
     <!-- The div that holds our map -->
-    <div id="map"></div>
+    <!-- <div id="map"></div> -->
+
     <!-- Leaflet JavaScript -->
 
     <!-- Distance to School Section -->
@@ -226,6 +183,14 @@
       </div>
     </div>
     <div id="scatter_station"></div>
+
+<!-- ***********************TEST -->
+    <div id="test"></div>
+<!-- ***********************TEST -->
+
+
+
+
     <!--D3 cdn-->
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
@@ -264,14 +229,5 @@
         },
       });
     </script>
-    <!-- Tabulator -->
-    <!-- <link
-      href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css"
-      rel="stylesheet"
-    />
-    <script
-      type="text/javascript"
-      src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"
-    ></script> -->
   </body>
 </html>
