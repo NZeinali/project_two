@@ -5,12 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Perth Property Market Analysis</title>
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-    />
-    <!--D3 cdn-->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
 
     <!-- Our CSS stylesheet-->
     <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
@@ -22,21 +16,219 @@
       integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
       crossorigin="anonymous"
     />
+
+    <!-- Leaflet CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+      integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+      crossorigin=""
+    />
+    <!-- Tabulator -->
+    <link
+      href="https://unpkg.com/tabulator-tables@5.0.0/dist/css/tabulator.min.css"
+      rel="stylesheet"
+    />
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/tabulator-tables@5.0.0/dist/js/tabulator.min.js"
+    ></script>
   </head>
 
   <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a
+          class="btn btn-primary"
+          href="index.html"
+          role="button"
+          style="background-color: #14a11b; color: white; font-weight: bolder"
+          >Latitude
+        </a>
+        <!--  In small screens, navbar collapses to a button  -->
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+                style="color: black"
+              >
+                Plots
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="visualisations/max_temp.html"
+                  >Max Temp</a
+                >
+                <a class="dropdown-item" href="visualisations/humidity.html"
+                  >Humidity</a
+                >
+                <a class="dropdown-item" href="visualisations/cloudiness.html"
+                  >Cloudiness</a
+                >
+                <a class="dropdown-item" href="visualisations/wind_speed.html"
+                  >Wind Speed</a
+                >
+              </div>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                style="color: black"
+                href="visualisations/comparison.html"
+                >Comparison</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                style="color: black"
+                href="visualisations/data.html"
+                >Data</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Navbar -->
+
+    <!-- Resource Table -->
+    <!-- <div class="container">
+      <div class="table-responsive">
+        <table class="table table-striped">
+          <thead>
+            <tr style="text-align: right">
+              <th>ADDRESS</th>
+              <th>SUBURB</th>
+              <th>PRICE</th>
+              <th>BEDROOMS</th>
+              <th>LAND_AREA</th>
+              <th>BUILD_YEAR</th>
+              <th>CBD_DIST</th>
+              <th>NEAREST_STN</th>
+              <th>NEAREST_STN_DIST</th>
+              <th>LATITUDE</th>
+              <th>LONGITUDE</th>
+              <th>NEAREST_SCH</th>
+              <th>NEAREST_SCH_DIST</th>
+              <th>YEAR_SOLD</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for data in table_list %}
+            <tr>
+              <td>{{ data.Address }}</td>
+              <td>{{ data.Suburb }}</td>
+              <td>{{ data.Price }}</td>
+              <td>{{ data.Bedrooms }}</td>
+              <td>{{ data.Land_Area }}</td>
+              <td>{{ data.Build_Year }}</td>
+              <td>{{ data.CBD_Dist }}</td>
+              <td>{{ data.Nearest_STN }}</td>
+              <td>{{ data.Nearest_STN_Dist }}</td>
+              <td>{{ data.Latitude }}</td>
+              <td>{{ data.Longitude }}</td>
+              <td>{{ data.Nearest_SCH }}</td>
+              <td>{{ data.Nearest_SCH_Dist }}</td>
+              <td>{{ data.Year_Sold }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div> -->
+
+    <!-- Granim Section -->
+
+    <canvas id="canvas-basic"></canvas>
+
+    <!-- <div id="table"></div> -->
+    <div id="example-table"></div>
+
     <!-- Section for the plot  -->
+    <div class="container">
+      <!-- <canvas id="canvas-basic"></canvas> -->
 
-    <canvas id="bar-chart-2" width="400" height="150"></canvas>
+      <div id="hist_landsize"></div>
+    </div>
+    <div class="container">
+      <div id="hist_bedroom"></div>
+    </div>
+    <div class="container">
+      <canvas id="bar-popular-bedrooms"></canvas>
+    </div>
+    <div class="container">
+      <canvas id="bar-bedroom_year" width="400" height="150"></canvas>
+    </div>
 
-    <canvas id="bar-chart-grouped" width="400" height="150"></canvas>
-
-    <canvas id="bar-chart-3" width="400" height="150"></canvas>
+    <canvas id="bar-bedroom_price" width="400" height="150"></canvas>
 
     <div id="age_plotly"></div>
 
+    <div id="suburb_plotly"></div>
+
+    <canvas id="cbd_dist_bar" width="400" height="150"></canvas>
+
+    <!-- <div id="leaflet_map"></div> -->
+    <!-- The div that holds our map -->
+    <div id="map"></div>
+    <!-- Leaflet JavaScript -->
+
+    <!-- Distance to School Section -->
+    <div class="row" style="margin-left: 50px; margin-right: 50px">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Top Perth Schools:</h5>
+          <select id="selSchool"></select>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div id="scatter_school"></div>
+    <!-- Distance to School Section -->
+
+    <!-- Distance to Station Section -->
+    <div class="row" style="margin-left: 50px; margin-right: 50px">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Perth Train Stations:</h5>
+          <select id="selStation"></select>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div id="scatter_station"></div>
+    <!--D3 cdn-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
-    <script src="../project_two/static/js/bedroom_year.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <!-- Plotly -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
@@ -44,5 +236,42 @@
 
     <!-- Our JavaScript -->
     <script type="text/javascript" src="../static/js/index.js"></script>
+
+    <!-- API key -->
+    <script type="text/javascript" src="../static/js/config.js"></script>
+
+    <!-- Leaflet JS-->
+    <script
+      src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+      integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+      crossorigin=""
+    ></script>
+    <!-- Call Granim.js script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/granim/2.0.0/granim.js"></script>
+    <script>
+      var granimInstance = new Granim({
+        element: "#canvas-basic",
+        direction: "left-right",
+        isPausedWhenNotInView: true,
+        states: {
+          "default-state": {
+            gradients: [
+              ["#ff9966", "#ff5e62"],
+              ["#00F260", "#0575E6"],
+              ["#e1eec3", "#f05053"],
+            ],
+          },
+        },
+      });
+    </script>
+    <!-- Tabulator -->
+    <!-- <link
+      href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css"
+      rel="stylesheet"
+    />
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"
+    ></script> -->
   </body>
 </html>

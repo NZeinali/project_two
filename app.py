@@ -72,15 +72,22 @@ def home():
 
 
 @app.route("/analysis")
-def map_page():
+def analysis_page():
     return render_template("index.html")
 
 ######################
 
 
-# @app.route("/leafletmap")
-# def map_page():
-#     return render_template("leaflet_map.html")
+@app.route("/leafletmap")
+def map_page():
+    return render_template("map.html")
+
+######################
+
+
+# @app.route("/resource")
+# def table_page():
+#     return render_template("data.html")
 
 ######################
 
@@ -108,13 +115,6 @@ def map_func():
 #################################################
 
 
-# @app.route("/houseAge")
-# def age_page():
-#     return render_template("house_age.html")
-
-######################
-
-
 @app.route("/agejson")
 def age_func():
 
@@ -138,11 +138,34 @@ def age_func():
 #################################################
 
 
-# @app.route("/bedrooms")
-# def bedrooms_page():
-#     return render_template("bedrooms.html")
+@app.route("/suburbAgejson")
+def suburbAge_func():
 
-######################
+    session = Session(bind=engine)
+
+    age_Analysis = Base.classes.house_age_analysis
+    suburb_Analysis = Base.classes.suburb_analysis
+
+    # Join two datasets
+    sel = [suburb_Analysis.suburb, age_Analysis.address, age_Analysis.build_year, age_Analysis.land_area,
+           age_Analysis.price, suburb_Analysis.address]
+
+    join_query = session.query(
+        *sel).filter(age_Analysis.address == suburb_Analysis.address).all()
+
+    session.close()
+
+    age_suburb_list = []
+    for row in join_query:
+        age_suburb_result = list(np.ravel(row))
+        age_suburb_dict = {
+            "Suburb": age_suburb_result[0], "Address": age_suburb_result[1], "Build_Year": age_suburb_result[2], "Land_Area": age_suburb_result[3], "Price": age_suburb_result[4]}
+        age_suburb_list.append(age_suburb_dict)
+
+    return jsonify(age_suburb_list)
+
+
+#################################################
 
 
 @app.route("/bedroomsjson")
@@ -224,6 +247,33 @@ def suburb_func():
         suburb_list.append(suburb_dict)
 
     return jsonify(suburb_list)
+
+#################################################
+
+
+@app.route("/perthMarketjson")
+def market_func():
+
+    session = Session(bind=engine)
+    marketAnalysis = Base.classes.perth_market
+
+    market_data = session.query(
+        marketAnalysis.address, marketAnalysis.suburb, marketAnalysis.price, marketAnalysis.bedrooms, marketAnalysis.land_area, marketAnalysis.build_year,
+        marketAnalysis.cbd_dist, marketAnalysis.nearest_stn, marketAnalysis.nearest_stn_dist, marketAnalysis.latitude,
+        marketAnalysis.longitude, marketAnalysis.nearest_sch, marketAnalysis.nearest_sch_dist, marketAnalysis.year_sold).all()
+
+    session.close()
+
+    market_list = []
+    for row in market_data:
+        market_result = list(np.ravel(row))
+        market_dict = {
+            "Address": market_result[0], "Suburb": market_result[1], "Price": market_result[2], "Bedrooms": market_result[3], "Land_Area": market_result[4], "Build_Year": market_result[5],
+            "CBD_Dist": market_result[6], "Nearest_STN": market_result[7], "Nearest_STN_Dist": market_result[8], "Latitude": market_result[9], "Longitude": market_result[10],
+            "Nearest_SCH": market_result[11], "Nearest_SCH_Dist": market_result[12], "Year_Sold": market_result[13]}
+        market_list.append(market_dict)
+
+    return jsonify(market_list)
 
 #################################################
 
