@@ -18,12 +18,12 @@
     />
 
     <!-- Leaflet CSS -->
-    <link
+    <!-- <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
       integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
       crossorigin=""
-    />
+    /> -->
     <!-- Tabulator -->
     <link
       href="https://unpkg.com/tabulator-tables@5.0.0/dist/css/tabulator.min.css"
@@ -59,34 +59,6 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto">
-            <!-- <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle"
-                href="#"
-                id="navbarDropdown"
-                role="button"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-                style="color: black"
-              >
-                Plots
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="visualisations/max_temp.html"
-                  >Max Temp</a
-                >
-                <a class="dropdown-item" href="visualisations/humidity.html"
-                  >Humidity</a
-                >
-                <a class="dropdown-item" href="visualisations/cloudiness.html"
-                  >Cloudiness</a
-                >
-                <a class="dropdown-item" href="visualisations/wind_speed.html"
-                  >Wind Speed</a
-                >
-              </div>
-            </li> -->
             <li class="nav-item">
               <a class="nav-link" style="color: black" href="leafletmap">Map</a>
             </li>
@@ -104,70 +76,15 @@
 
     <canvas id="canvas-basic"></canvas>
 
-    <!-- <div id="table"></div> -->
-    <div id="resource-table"></div>
+    <!-- Section for the table  -->
 
-    <!-- Section for the plot  -->
-    <div class="container">
-      <div id="hist_landsize"></div>
-    </div>
-    <!-- <div class="container">
-      <div id="hist_bedroom"></div>
-    </div> -->
-    <div class="container">
-      <canvas id="bar-popular-bedrooms"></canvas>
-    </div>
-    <div class="container">
-      <canvas id="bar-bedroom_year" width="400" height="150"></canvas>
+    <div class="container-fluid">
+      <div style="background-color: bisque">
+        <h1 style="text-align: center">A sample of dataset</h1>
+      </div>
+      <div id="resource-table"></div>
     </div>
 
-    <canvas id="bar-bedroom_price" width="400" height="150"></canvas>
-
-    <div id="age_plotly"></div>
-
-    <div id="suburb_plotly"></div>
-
-    <canvas id="cbd_dist_bar" width="400" height="150"></canvas>
-
-    <!-- <div id="leaflet_map"></div> -->
-    <!-- The div that holds our map -->
-    <div id="map"></div>
-    <!-- Leaflet JavaScript -->
-
-    <!-- Distance to School Section -->
-    <div class="row" style="margin-left: 50px; margin-right: 50px">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Top Perth Schools:</h5>
-          <select id="selSchool"></select>
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div id="bar"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
-      </div>
-    </div>
-    <div id="scatter_school"></div>
-    <!-- Distance to School Section -->
-
-    <!-- Distance to Station Section -->
-    <div class="row" style="margin-left: 50px; margin-right: 50px">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Perth Train Stations:</h5>
-          <select id="selStation"></select>
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div id="bar"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
-      </div>
-    </div>
-    <div id="scatter_station"></div>
     <!--D3 cdn-->
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>

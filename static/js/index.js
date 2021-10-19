@@ -237,10 +237,7 @@ d3.json("/bedroomsjson")
             top: 100,
           },
         },
-        // title: {
-        //   display: true,
-        //   text: "Properties sold in Perth with certain number of bedrooms",
-        // },
+
         layout: {
           padding: {
             left: 60,
@@ -323,7 +320,6 @@ d3.json("/bedroomsjson")
       fiveBD_avg_price,
       sixBD_avg_price,
     ];
-    // console.log(y);
     // Bar chart plotted by Chart.js library
     new Chart(document.getElementById("bar-bedroom_price"), {
       type: "bar",
@@ -338,10 +334,6 @@ d3.json("/bedroomsjson")
         ],
       },
       options: {
-        // title: {
-        //   display: false,
-        //   text: "Number of bedrooms in Perth",
-        // },
         scales: {
           xAxes: [
             {
@@ -375,7 +367,6 @@ d3.json("/bedroomsjson")
     });
 
     // ********************* Plotly
-    // Plotly
     var trace1 = {
       x: x,
       y: y1,
@@ -390,14 +381,6 @@ d3.json("/bedroomsjson")
         },
       },
       name: "Price per Land size",
-      // orientation: "v",
-      // transforms: [
-      //   {
-      //     type: "sort",
-      //     target: "x",
-      //     order: "ascending",
-      //   },
-      // ],
     };
 
     var trace2 = {
@@ -413,21 +396,14 @@ d3.json("/bedroomsjson")
           width: 1,
         },
       },
-      // orientation: "v",
 
-      // mode: "lines+markers",
-      // line: {
-      //   color: "rgb(128,0,128)",
-      // },
       name: "Total Price",
     };
 
     var data = [trace1, trace2];
 
     var layout = {
-      // title: "Suburb Analysis",
       yaxis1: {
-        // range: [0, 4000],
         domain: [0, 0.48],
         title: "Number of Sold Properties",
         zeroline: false,
@@ -436,7 +412,6 @@ d3.json("/bedroomsjson")
         showgrid: true,
       },
       yaxis2: {
-        // range: [700000, 1800000],
         domain: [0.52, 1],
         title: "Price per Land Size ($/m2)",
         zeroline: false,
@@ -444,7 +419,6 @@ d3.json("/bedroomsjson")
         showticklabels: true,
         showgrid: true,
         side: "right",
-        // dtick: 100000,
       },
       legend: {
         x: 0,
@@ -459,46 +433,7 @@ d3.json("/bedroomsjson")
         t: 70,
         b: 150,
       },
-      // width: 600,
-      // height: 600,
-      // paper_bgcolor: "rgb(248,248,255)",
-      // plot_bgcolor: "rgb(248,248,255)",
-      // annotations: [],
     };
-
-    // for (var i = 0; i < 10; i++) {
-    //   var result = {
-    //     xref: "x1",
-    //     yref: "y1",
-    //     x: xSuburbPricePerLand[i] + 190, // position of labels
-    //     y: ySuburb[i], // position of labels
-    //     text: xSuburbPricePerLand[i] + " $/m2",
-    //     font: {
-    //       family: "Arial",
-    //       size: 14,
-    //       color: "green",
-    //     },
-    //     showarrow: false,
-    //   };
-    //   var result2 = {
-    //     xref: "x2",
-    //     yref: "y1",
-    //     x: xSuburbPrice[i] + 50000, // position of labels
-    //     y: ySuburb[i], // position of labels
-    //     text: xSuburbPrice[i] + " $",
-    //     font: {
-    //       family: "Arial",
-    //       size: 14,
-    //       color: "black",
-    //     },
-    //     showarrow: false,
-    //   };
-
-    //   layout.annotations.push(result, result2);
-    // }
-    // console.log(y1);
-
-    // console.log(y2);
 
     Plotly.newPlot("multiAxis", data, layout);
   })
@@ -518,9 +453,6 @@ d3.json("/agejson")
       house.Land_Area = +house.Land_Area;
       house.Price = +house.Price;
     });
-
-    var house_age = [];
-    var house_price = [];
 
     var price_below_1990 = [];
     var price_1990_1995 = [];
@@ -615,9 +547,7 @@ d3.json("/agejson")
       x: xValue,
       y: yValue,
       type: "bar",
-      // text: yValue.map(String),
-      // textposition: "auto",
-      // hoverinfo: "none",
+
       marker: {
         color: "rgb(158,202,225)",
         opacity: 0.6,
@@ -755,10 +685,6 @@ d3.json("/suburbAgejson")
       },
       orientation: "h",
 
-      // mode: "lines+markers",
-      // line: {
-      //   color: "rgb(128,0,128)",
-      // },
       name: "Average total sales price for the top 10 expensive suburbs",
     };
 
@@ -799,10 +725,7 @@ d3.json("/suburbAgejson")
         t: 150,
         b: 70,
       },
-      // width: 600,
-      // height: 600,
-      // paper_bgcolor: "rgb(248,248,255)",
-      // plot_bgcolor: "rgb(248,248,255)",
+
       annotations: [],
     };
 
@@ -1005,13 +928,6 @@ d3.json("/distancejson")
             backgroundColor: "#DE300B",
             data: avg_price,
           },
-          // ,
-          // {
-          //   label: "Four",
-          //   backgroundColor: "#cd763e",
-          //   data: y_four_bedroom,
-
-          // },
         ],
       },
       options: {
@@ -1101,22 +1017,11 @@ d3.json("/distancejson")
         y: y,
         mode: "markers",
         type: "scatter",
-        // name: 'Team A',
-        // text: ['A-1', 'A-2', 'A-3', 'A-4', 'A-5'],
+
         marker: { size: 12 },
       };
 
       var data = [trace];
-      // console.log(data);
-      // var layout = {
-      //   title: "Age of Property Analysis",
-      //   xaxis: {
-      //     title: "Year Built",
-      //   },
-      //   yaxis: {
-      //     title: "Average Price per Land Size ($/m2)",
-      //   },
-      // };
 
       var layout = {
         xaxis: {
@@ -1189,19 +1094,19 @@ d3.json("/distancejson")
       var y2 = selecteddata.map((data) =>
         Math.round(data.Price / data.Land_Area)
       );
+
       // Plotly
       var trace2 = {
         x: x2,
         y: y2,
         mode: "markers",
         type: "scatter",
-        // name: 'Team A',
-        // text: ['A-1', 'A-2', 'A-3', 'A-4', 'A-5'],
+
         marker: { size: 12 },
       };
 
       var data2 = [trace2];
-      // console.log(data2);
+
       var layout = {
         xaxis: {
           dtick: 1000,
