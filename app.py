@@ -41,31 +41,13 @@ def home():
         f"#################################################################################<br/>"
         f"Here are the list of available routes:<br/>"
         f"#################################################################################<br/>"
-        f"/api/v1.0/suburb ------------- Returns a JSON list of property suburb.<br/>"
+        f"/analysis -------------> Returns analysis results and visualisations.<br/>"
         f"<br/>"
-        f"/api/v1.0/price ------------------ Returns a JSON list of property price.<br/>"
+        f"/leafletmap ------------------> Returns a Leaflet map visualisation.<br/>"
         f"<br/>"
-        f"/api/v1.0/bedrooms ------------- Returns a JSON list of property bedrooms.<br/>"
+        f"/resource -------------> Returns the resource data in HTML format.<br/>"
         f"<br/>"
-        f"/api/v1.0/land_area ------------------ Returns a JSON list of property land area.<br/>"
-        f"<br/>"
-        f"/api/v1.0/build_year ------------- Returns a JSON list of bulit year of property.<br/>"
-        f"<br/>"
-        f"/api/v1.0/cbd_dist ------------------ Returns a JSON list of property distance to CBD.<br/>"
-        f"<br/>"
-        f"/api/v1.0/nearest_stn ------------- Returns a JSON list of the nearest train station to property.<br/>"
-        f"<br/>"
-        f"/api/v1.0/nearest_stn_dist ------------------ Returns a JSON list of property distance to the nearest train station.<br/>"
-        f"<br/>"
-        f"/api/v1.0/nearest_sch ------------- Returns a JSON list of the nearest school to property.<br/>"
-        f"<br/>"
-        f"/api/v1.0/nearest_sch_dist ------------------ Returns a JSON list of property distance to the nearest school.<br/>"
-        f"<br/>"
-        f"/api/v1.0/latitude ------------- Returns a JSON list of property latitude.<br/>"
-        f"<br/>"
-        f"/api/v1.0/longitude ------------------ Returns a JSON list of property longitude.<br/>"
-        f"<br/>"
-        f"/api/v1.0/year_sold ------------- Returns a JSON list of the years properties were sold .<br/>"
+        f"/perthMarketjson ------------------ Returns a JSON list of the dataset.<br/>"
     )
 
 #################################################
@@ -191,13 +173,6 @@ def bedrooms_func():
 #################################################
 
 
-# @app.route("/distance")
-# def distance_page():
-#     return render_template("distance.html")
-
-######################
-
-
 @app.route("/distancejson")
 def distance_func():
 
@@ -219,13 +194,6 @@ def distance_func():
     return jsonify(distance_list)
 
 #################################################
-
-
-# @app.route("/suburb")
-# def suburb_page():
-#     return render_template("suburb.html")
-
-######################
 
 
 @app.route("/suburbjson")

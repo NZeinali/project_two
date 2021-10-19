@@ -389,7 +389,7 @@ d3.json("/bedroomsjson")
           width: 1,
         },
       },
-      name: "Top 10 expensive suburbs",
+      name: "Price per Land size",
       // orientation: "v",
       // transforms: [
       //   {
@@ -419,17 +419,17 @@ d3.json("/bedroomsjson")
       // line: {
       //   color: "rgb(128,0,128)",
       // },
-      name: "Average total sales price for the top 10 expensive suburbs",
+      name: "Total Price",
     };
 
     var data = [trace1, trace2];
 
     var layout = {
-      title: "Suburb Analysis",
+      // title: "Suburb Analysis",
       yaxis1: {
         // range: [0, 4000],
-        domain: [0, 0.45],
-        title: "Price per Land Size ($/m2)",
+        domain: [0, 0.48],
+        title: "Number of Sold Properties",
         zeroline: false,
         showline: false,
         showticklabels: true,
@@ -437,8 +437,8 @@ d3.json("/bedroomsjson")
       },
       yaxis2: {
         // range: [700000, 1800000],
-        domain: [0.55, 1],
-        title: "Total Sales Price ($)",
+        domain: [0.52, 1],
+        title: "Price per Land Size ($/m2)",
         zeroline: false,
         showline: false,
         showticklabels: true,
@@ -455,9 +455,9 @@ d3.json("/bedroomsjson")
       },
       margin: {
         l: 150,
-        r: 70,
-        t: 150,
-        b: 70,
+        r: 150,
+        t: 70,
+        b: 150,
       },
       // width: 600,
       // height: 600,
@@ -496,11 +496,11 @@ d3.json("/bedroomsjson")
 
     //   layout.annotations.push(result, result2);
     // }
-    console.log(y1);
+    // console.log(y1);
 
-    console.log(y2);
+    // console.log(y2);
 
-    Plotly.newPlot("test", data, layout);
+    Plotly.newPlot("multiAxis", data, layout);
   })
   .catch(function (error) {
     console.log(error);
@@ -645,145 +645,6 @@ d3.json("/agejson")
   .catch(function (error) {
     console.log(error);
   });
-
-// // ################################################################################################ //
-// //                                       PROPERTY Age ANALYSIS
-// // ################################################################################################ //
-
-// d3.json("/suburbjson")
-//   .then((houseData) => {
-//     // Convert string to number
-//     houseData.forEach((house) => {
-//       house.Land_Area = +house.Land_Area;
-//       house.Price = +house.Price;
-//     });
-
-//     // var house_age = [];
-//     // var house_price = [];
-
-//     var price_below_1990 = [];
-//     var price_1990_1995 = [];
-//     var price_1995_2000 = [];
-//     var price_2000_2005 = [];
-//     var price_2005_2010 = [];
-//     var price_2010_2015 = [];
-//     var price_above_2015 = [];
-
-//     houseData.forEach((data) => {
-//       if (data.Build_Year <= 1990) {
-//         price_below_1990.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Build_Year <= 1995) {
-//         price_1990_1995.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Build_Year <= 2000) {
-//         price_1995_2000.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Build_Year <= 2005) {
-//         price_2000_2005.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Build_Year <= 2010) {
-//         price_2005_2010.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Build_Year <= 2015) {
-//         price_2010_2015.push(Math.round(data.Price / data.Land_Area));
-//       } else {
-//         price_above_2015.push(Math.round(data.Price / data.Land_Area));
-//       }
-//     });
-
-//     // Calculate average sales price per sqm of land for each "Build_Year" period
-//     var sum = 0;
-//     price_below_1990.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_below_1990 = Math.round(sum / price_below_1990.length);
-//     // **********
-//     var sum = 0;
-//     price_1990_1995.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_1990_1995 = Math.round(sum / price_1990_1995.length);
-//     // **********
-//     var sum = 0;
-//     price_1995_2000.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_1995_2000 = Math.round(sum / price_1995_2000.length);
-//     // **********
-//     var sum = 0;
-//     price_2000_2005.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_2000_2005 = Math.round(sum / price_2000_2005.length);
-//     // **********
-//     var sum = 0;
-//     price_2005_2010.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_2005_2010 = Math.round(sum / price_2005_2010.length);
-//     // **********
-//     var sum = 0;
-//     price_2010_2015.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_2010_2015 = Math.round(sum / price_2010_2015.length);
-//     // **********
-//     var sum = 0;
-//     price_above_2015.forEach((price) => {
-//       sum += price;
-//     });
-//     var avg_price_above_2015 = Math.round(sum / price_above_2015.length);
-
-//     // Defining arrays for the plot
-//     var xValue = [
-//       "Before 1990",
-//       "1990-2000",
-//       "2000-2005",
-//       "2005-2010",
-//       "2010-2015",
-//       "2015 onward",
-//     ];
-//     var yValue = [
-//       avg_price_below_1990,
-//       avg_price_1990_1995,
-//       avg_price_1995_2000,
-//       avg_price_2000_2005,
-//       avg_price_2005_2010,
-//       avg_price_2010_2015,
-//       avg_price_above_2015,
-//     ];
-
-//     // Plot by PLOTLY
-//     var trace = {
-//       x: xValue,
-//       y: yValue,
-//       type: "bar",
-//       text: yValue.map(String),
-//       textposition: "auto",
-//       hoverinfo: "none",
-//       marker: {
-//         color: "rgb(158,202,225)",
-//         opacity: 0.6,
-//         line: {
-//           color: "rgb(8,48,107)",
-//           width: 1.5,
-//         },
-//       },
-//     };
-
-//     var data = [trace];
-
-//     var layout = {
-//       title: "Age of Property Analysis",
-//       xaxis: {
-//         title: "Year the property was built",
-//       },
-//       yaxis: {
-//         title: "Price per Land Size ($/m2)",
-//       },
-//     };
-
-//     Plotly.newPlot("age_plotly", data, layout);
-//   })
-//   .catch(function (error) {
-//     console.log(error);
-//   });
 
 // ################################################################################################ //
 //                                       PROPERTY SUBURB ANALYSIS
@@ -1260,7 +1121,7 @@ d3.json("/distancejson")
       var layout = {
         xaxis: {
           title: "Distance (km)",
-          dtick: 0.1,
+          dtick: 0.2,
         },
         yaxis: {
           title: "Price per Land Size ($/m2)",
@@ -1340,12 +1201,12 @@ d3.json("/distancejson")
       };
 
       var data2 = [trace2];
-      console.log(data2);
+      // console.log(data2);
       var layout = {
         xaxis: {
-          dtick: 500,
+          dtick: 1000,
           title: "Distance (km)",
-          range: [0, 6000],
+          range: [0, 6500],
         },
         yaxis: {
           title: "Price per Land Size ($/m2)",
@@ -1371,433 +1232,3 @@ d3.json("/distancejson")
   .catch(function (error) {
     console.log(error);
   });
-
-// ################################################################################################ //
-//                                       Leaflet ANALYSIS
-// ################################################################################################ //
-
-// // Function to determine marker size based on population
-// function markerSize(price) {
-//   return price / 5000;
-// }
-
-// d3.json("/mapjson")
-//   .then((houseData) => {
-//     // Convert string to number
-//     houseData.forEach((house) => {
-//       house.Latitude = +house.Latitude;
-//       house.Longitude = +house.Longitude;
-//       house.Land_Area = +house.Land_Area;
-//       house.Price = +house.Price;
-//     });
-//     // ************************************************************************************************* //
-//     // Filter data to find properties with 500 to 750[m2] land size and total price below 500,000[$]
-//     var selecteddata = houseData
-//       .filter((data) => data.Land_Area >= 500)
-//       .filter((data) => data.Land_Area < 750)
-//       .filter((data) => data.Price <= 500000);
-
-//     // Define arrays to hold created city and state markers
-//     var location_arr = [];
-//     var affordablePriceMarkers = [];
-
-//     var price_arr = selecteddata.map((data) => data.Price);
-//     var land_arr = selecteddata.map((data) => data.Land_Area);
-
-//     selecteddata.forEach((data) => {
-//       var lat = data.Latitude;
-//       var lng = data.Longitude;
-//       location_arr.push([lat, lng]);
-//     });
-
-//     // Loop through locations and create price markers
-//     for (var i = 0; i < selecteddata.length; i++) {
-//       // Setting the marker radius for the property by passing price into the markerSize function
-//       affordablePriceMarkers.push(
-//         L.circle(location_arr[i], {
-//           stroke: false,
-//           fillOpacity: 0.4,
-//           color: "Fuchsia",
-//           fillColor: "Fuchsia",
-//           radius: markerSize(price_arr[i]),
-//         }).bindPopup(
-//           "<h3> Price: $" +
-//             price_arr[i] +
-//             "</h3><h3> Land Size: " +
-//             land_arr[i] +
-//             "m2</h3>"
-//         )
-//       );
-//     }
-
-//     // ************************************************************************************************* //
-
-//     // Filter data to find expensive properties with total price over 2,000,000[$]
-//     var expensivedata = houseData.filter((data) => data.Price > 2000000);
-
-//     console.log(selecteddata);
-
-//     // Define arrays to hold created city and state markers
-//     var expensive_location_arr = [];
-//     var expensivePriceMarkers = [];
-
-//     var expensive_price_arr = expensivedata.map((data) => data.Price);
-//     var expensive_land_arr = expensivedata.map((data) => data.Land_Area);
-
-//     expensivedata.forEach((data) => {
-//       var lat = data.Latitude;
-//       var lng = data.Longitude;
-//       expensive_location_arr.push([lat, lng]);
-//     });
-
-//     console.log(expensive_location_arr);
-
-//     // Loop through locations and create price markers
-//     for (var i = 0; i < expensivedata.length; i++) {
-//       // Setting the marker radius for the property by passing price and land size into the markerSize function
-//       expensivePriceMarkers.push(
-//         L.circle(expensive_location_arr[i], {
-//           stroke: false,
-//           fillOpacity: 0.4,
-//           color: "red",
-//           fillColor: "red",
-//           radius: markerSize(expensive_price_arr[i]) / 2,
-//         }).bindPopup(
-//           "<h3> Price: $" +
-//             expensive_price_arr[i] +
-//             "</h3><h3> Land Size: " +
-//             expensive_land_arr[i] +
-//             "m2</h3>"
-//         )
-//       );
-//     }
-
-//     // Create base layers
-
-//     // Streetmap Layer
-//     var streetmap = L.tileLayer(
-//       "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
-//       {
-//         attribution:
-//           "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-//         tileSize: 512,
-//         maxZoom: 18,
-//         zoomOffset: -1,
-//         id: "mapbox/streets-v11",
-//         accessToken: API_KEY,
-//       }
-//     );
-
-//     var satelliteMap = L.tileLayer(
-//       "https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
-//       {
-//         attribution:
-//           'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-//         maxZoom: 18,
-//         id: "satellite-v9",
-//         accessToken: API_KEY,
-//       }
-//     );
-
-//     // Create two separate layer groups: one for affordable and one for expensive properties
-//     var affordablePrices = L.layerGroup(affordablePriceMarkers);
-//     var expensivePrices = L.layerGroup(expensivePriceMarkers);
-
-//     // Create a baseMaps object
-//     var baseMaps = {
-//       "Street Map": streetmap,
-//       "Satellite Map": satelliteMap,
-//     };
-
-//     // Create an overlay object
-//     var overlayMaps = {
-//       "Affordable Properties": affordablePrices,
-//       "Expensive Properties": expensivePrices,
-//     };
-
-//     // Define a map object
-//     var myMap = L.map("map", {
-//       center: [-31.95, 115.86],
-//       zoom: 13,
-//       layers: [streetmap, affordablePrices],
-//     });
-
-//     // Pass our map layers into our layer control
-//     // Add the layer control to the map
-//     L.control
-//       .layers(baseMaps, overlayMaps, {
-//         collapsed: false,
-//       })
-//       .addTo(myMap);
-//   })
-//   .catch(function (error) {
-//     console.log(error);
-//   });
-
-// ################################################################################################ //
-//                                       RESOURCE TABLE ANALYSIS
-// ################################################################################################ //
-
-// d3.json("/perthMarketjson")
-//   .then((houseData) => {
-//     var table = [];
-
-//     // Create a table of 20 rows of my source data
-//     for (var i = 0; i < 20; i++) {
-//       table.push(houseData[i]);
-//     }
-
-//     // Using Tabulator library to show the content of my resource
-//     new Tabulator("#resource-table", {
-//       data: table, //assign data to table
-//       autoColumns: true, //create columns from data field names
-//     });
-//   })
-//   .catch(function (error) {
-//     console.log(error);
-//   });
-
-// ################################################################################################ //
-//                                       TEST
-// ################################################################################################ //
-// d3.json("/bedroomsjson")
-//   .then((houseData) => {
-//     console.log(houseData);
-//     // Popular bedrooms number plotted by Chart.js
-//     var one_bedroom_arr = [];
-//     var two_bedroom_arr = [];
-//     var three_bedroom_arr = [];
-//     var four_bedroom_arr = [];
-//     var five_bedroom_arr = [];
-//     var six_bedroom_arr = [];
-
-//     houseData.forEach((data) => {
-//       if (data.Bedrooms === 1) {
-//         one_bedroom_arr.push(data.Bedrooms);
-//       } else if (data.Bedrooms === 2) {
-//         two_bedroom_arr.push(data.Bedrooms);
-//       } else if (data.Bedrooms === 3) {
-//         three_bedroom_arr.push(data.Bedrooms);
-//       } else if (data.Bedrooms === 4) {
-//         four_bedroom_arr.push(data.Bedrooms);
-//       } else if (data.Bedrooms === 5) {
-//         five_bedroom_arr.push(data.Bedrooms);
-//       } else if (data.Bedrooms === 6) {
-//         six_bedroom_arr.push(data.Bedrooms);
-//       }
-//     });
-
-//     var x1 = ["One", "Two", "Three", "Four", "Five", "Six"];
-//     var y1 = [
-//       one_bedroom_arr.length,
-//       two_bedroom_arr.length,
-//       three_bedroom_arr.length,
-//       four_bedroom_arr.length,
-//       five_bedroom_arr.length,
-//       six_bedroom_arr.length,
-//     ];
-
-//     // **********************************************************************************
-//     // Effect of the number of Bedrooms on the sale or listing price of properties
-//     var price_oneBD = [];
-//     var price_twoBD = [];
-//     var price_threeBD = [];
-//     var price_fourBD = [];
-//     var price_fiveBD = [];
-//     var price_sixBD = [];
-
-//     houseData.forEach((data) => {
-//       if (data.Bedrooms === 1) {
-//         price_oneBD.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Bedrooms === 2) {
-//         price_twoBD.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Bedrooms === 3) {
-//         price_threeBD.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Bedrooms === 4) {
-//         price_fourBD.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Bedrooms === 5) {
-//         price_fiveBD.push(Math.round(data.Price / data.Land_Area));
-//       } else if (data.Bedrooms === 6) {
-//         price_sixBD.push(Math.round(data.Price / data.Land_Area));
-//       }
-//     });
-
-//     // Calculate average sales price per sqm of land
-//     var sum = 0;
-//     price_oneBD.forEach((data) => {
-//       sum += data;
-//     });
-//     var oneBD_avg_price = Math.round(sum / price_oneBD.length);
-//     // **********
-//     var sum = 0;
-//     price_twoBD.forEach((data) => {
-//       sum += data;
-//     });
-//     var twoBD_avg_price = Math.round(sum / price_twoBD.length);
-//     // **********
-//     var sum = 0;
-//     price_threeBD.forEach((data) => {
-//       sum += data;
-//     });
-//     var threeBD_avg_price = Math.round(sum / price_threeBD.length);
-//     // **********
-//     var sum = 0;
-//     price_fourBD.forEach((data) => {
-//       sum += data;
-//     });
-//     var fourBD_avg_price = Math.round(sum / price_fourBD.length);
-//     // **********
-//     var sum = 0;
-//     price_fiveBD.forEach((data) => {
-//       sum += data;
-//     });
-//     var fiveBD_avg_price = Math.round(sum / price_fiveBD.length);
-//     // **********
-//     var sum = 0;
-//     price_sixBD.forEach((data) => {
-//       sum += data;
-//     });
-//     var sixBD_avg_price = Math.round(sum / price_sixBD.length);
-
-//     // Defining arrays for the plot
-//     // var x1 = ["One", "Two", "Three", "Four", "Five", "Six"];
-//     var y2 = [
-//       oneBD_avg_price,
-//       twoBD_avg_price,
-//       threeBD_avg_price,
-//       fourBD_avg_price,
-//       fiveBD_avg_price,
-//       sixBD_avg_price,
-//     ];
-//     // ****************************************************************************
-
-//     // Plotly
-//     var trace1 = {
-//       x: x1,
-//       y: y1,
-//       xaxis: "x1",
-//       yaxis: "y1",
-//       type: "bar",
-//       marker: {
-//         color: "rgba(50,171,96,0.6)",
-//         line: {
-//           color: "rgba(50,171,96,1.0)",
-//           width: 1,
-//         },
-//       },
-//       name: "Top 10 expensive suburbs",
-//       // orientation: "v",
-//       // transforms: [
-//       //   {
-//       //     type: "sort",
-//       //     target: "x",
-//       //     order: "ascending",
-//       //   },
-//       // ],
-//     };
-
-//     var trace2 = {
-//       x: x1,
-//       y: y2,
-//       xaxis: "x1",
-//       yaxis: "y2",
-//       type: "bar",
-//       marker: {
-//         color: "#FF5733",
-//         line: {
-//           color: "#FF5733",
-//           width: 1,
-//         },
-//       },
-//       // orientation: "v",
-
-//       // mode: "lines+markers",
-//       // line: {
-//       //   color: "rgb(128,0,128)",
-//       // },
-//       name: "Average total sales price for the top 10 expensive suburbs",
-//     };
-
-//     var data = [trace1, trace2];
-
-//     var layout = {
-//       title: "Suburb Analysis",
-//       yaxis1: {
-//         // range: [0, 4000],
-//         domain: [0, 1],
-//         title: "Price per Land Size ($/m2)",
-//         zeroline: false,
-//         showline: false,
-//         showticklabels: true,
-//         showgrid: true,
-//       },
-//       yaxis2: {
-//         // range: [700000, 1800000],
-//         domain: [0, 1],
-//         title: "Total Sales Price ($)",
-//         zeroline: false,
-//         showline: false,
-//         showticklabels: true,
-//         showgrid: true,
-//         side: "right",
-//         // dtick: 100000,
-//       },
-//       legend: {
-//         x: 0,
-//         y: 1.3,
-//         font: {
-//           size: 14,
-//         },
-//       },
-//       margin: {
-//         l: 150,
-//         r: 70,
-//         t: 150,
-//         b: 70,
-//       },
-//       // width: 600,
-//       // height: 600,
-//       // paper_bgcolor: "rgb(248,248,255)",
-//       // plot_bgcolor: "rgb(248,248,255)",
-//       // annotations: [],
-//     };
-
-//     // for (var i = 0; i < 10; i++) {
-//     //   var result = {
-//     //     xref: "x1",
-//     //     yref: "y1",
-//     //     x: xSuburbPricePerLand[i] + 190, // position of labels
-//     //     y: ySuburb[i], // position of labels
-//     //     text: xSuburbPricePerLand[i] + " $/m2",
-//     //     font: {
-//     //       family: "Arial",
-//     //       size: 14,
-//     //       color: "green",
-//     //     },
-//     //     showarrow: false,
-//     //   };
-//     //   var result2 = {
-//     //     xref: "x2",
-//     //     yref: "y1",
-//     //     x: xSuburbPrice[i] + 50000, // position of labels
-//     //     y: ySuburb[i], // position of labels
-//     //     text: xSuburbPrice[i] + " $",
-//     //     font: {
-//     //       family: "Arial",
-//     //       size: 14,
-//     //       color: "black",
-//     //     },
-//     //     showarrow: false,
-//     //   };
-
-//     //   layout.annotations.push(result, result2);
-//     // }
-//     console.log(y1);
-
-//     console.log(y2);
-
-//     Plotly.newPlot("test", data, layout);
-//   })
-//   .catch(function (error) {
-//     console.log(error);
-//   });

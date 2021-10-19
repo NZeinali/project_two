@@ -34,7 +34,7 @@
       src="https://unpkg.com/tabulator-tables@5.0.0/dist/js/tabulator.min.js"
     ></script>
   </head>
-
+  <!-- ######################################################################### -->
   <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -60,36 +60,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto">
-            <!-- <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle"
-                href="#"
-                id="navbarDropdown"
-                role="button"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-                style="color: black"
-              >
-                Plots
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="visualisations/max_temp.html"
-                  >Max Temp</a
-                >
-                <a class="dropdown-item" href="visualisations/humidity.html"
-                  >Humidity</a
-                >
-                <a class="dropdown-item" href="visualisations/cloudiness.html"
-                  >Cloudiness</a
-                >
-                <a class="dropdown-item" href="visualisations/wind_speed.html"
-                  >Wind Speed</a
-                >
-              </div>
-            </li> -->
             <li class="nav-item">
-              <a class="nav-link" style="color: black" href="leafletmap">Map</a>
+              <a class="nav-link" style="color: black" href="/leafletmap"
+                >Map</a
+              >
             </li>
             <li class="nav-item">
               <a class="nav-link" style="color: black" href="/resource">Data</a>
@@ -108,86 +82,141 @@
     <!-- <div id="table"></div> -->
     <!-- <div id="resource-table"></div> -->
 
-    <!-- Section for the plot  -->
+    <!-- Section for the Histogram plot (land size)  -->
 
     <div class="container-fluid">
+      <div style="background-color: bisque">
+        <h1 style="text-align: center">Land Size Analysis</h1>
+      </div>
       <div class="row align-items-center">
         <div class="col-8">
-          <!-- <div class="container"> -->
           <div id="hist_landsize"></div>
-          <!-- </div> -->
         </div>
 
-        <div class="col-4">One of three columns</div>
+        <div class="col-4" style="font-size: 24px;">Popular property sizes are in the range of 500 to 700m2.</div>
       </div>
     </div>
-
-    <div class="container">
+    <!-- ***************************************************************** -->
+    <!-- <div class="container">
       <div id="hist_landsize"></div>
-    </div>
+    </div> -->
     <!-- <div class="container">
       <div id="hist_bedroom"></div>
     </div> -->
-    <div class="container">
+    <!-- Section for the Bar plot (Number of Bedrooms Analysis)  -->
+
+    <div class="container-fluid">
+      <div style="background-color: bisque">
+        <h1 style="text-align: center">Number of Bedrooms Analysis</h1>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-8">
+          <canvas id="bar-popular-bedrooms"></canvas>
+        </div>
+
+        <div class="col-4" style="font-size: 24px;">Most of the sold properties had four and three bedrooms. </div>
+      </div>
+      <hr>
+
+      <div class="row align-items-center">
+        <div class="col-8">
+          <canvas id="bar-bedroom_price" width="400" height="150"></canvas>
+        </div>
+
+        <div class="col-4"  style="font-size: 24px;">Four bedroom properties were the cheapest considering their price per land</div>
+      </div>
+    </div>
+    <hr>
+
+    <!-- Section for multi axis bar charts (Bedroom Analysis) -->
+    <div class="container-fluid">
+      <div id="multiAxis" style="height: 800px"></div>
+    </div>
+    <hr>
+
+    <!-- ***************************************************************** -->
+    <div class="container-fluid">
+      <div class="row align-items-center">
+        <div class="col-8">
+          <canvas id="bar-bedroom_year" width="400" height="150"></canvas>
+        </div>
+
+        <div class="col-4">The number of sold four bedroom properties increased from 2015 to 2018. The ratio of sold dwellings with 4 bedrooms remained 1.5 times higher than 3 bedrooms within this period.</div>
+      </div>
+    </div>
+
+    <!-- <div class="container">
       <canvas id="bar-popular-bedrooms"></canvas>
-    </div>
-    <div class="container">
+    </div> -->
+    <!-- <div class="container">
       <canvas id="bar-bedroom_year" width="400" height="150"></canvas>
-    </div>
+    </div> -->
 
-    <canvas id="bar-bedroom_price" width="400" height="150"></canvas>
+    <!-- <canvas id="bar-bedroom_price" width="400" height="150"></canvas> -->
 
+
+    <!-- Section for the Bar plot (Age of Property Analysis)  -->
+
+    <div class="container-fluid">
+      <div style="background-color: bisque">
+        <h1 style="text-align: center">Property Age Analysis</h1>
+      </div>
     <div id="age_plotly"></div>
 
+    <!-- Section for the Multi axis Bar plot (Suburb Analysis)  -->
+    <div class="container-fluid">
+      <div style="background-color: bisque">
+        <h1 style="text-align: center">Suburb Analysis</h1>
+      </div>
     <div id="suburb_plotly"></div>
 
+
+    <!-- Section for the Bar plots (Distance/Location Analysis)  -->
+    <div class="container-fluid">
+      <div style="background-color: bisque">
+        <h1 style="text-align: center">Location Analysis</h1>
+      </div>
     <canvas id="cbd_dist_bar" width="400" height="150"></canvas>
 
     <!-- <div id="leaflet_map"></div> -->
     <!-- The div that holds our map -->
     <!-- <div id="map"></div> -->
 
-    <!-- Leaflet JavaScript -->
+    <hr>
 
     <!-- Distance to School Section -->
-    <div class="row" style="margin-left: 50px; margin-right: 50px">
+    <div class="row" style="margin-top: 50px; margin-bottom: 50px; margin-left: 50px; margin-right: 50px">
       <div class="col-md-2">
         <div class="well">
-          <h5>Top Perth Schools:</h5>
+          <h4>Top Perth Schools</4>
           <select id="selSchool"></select>
         </div>
       </div>
-      <div class="col-md-5">
+      <!-- <div class="col-md-5">
         <div id="bar"></div>
       </div>
       <div class="col-md-5">
         <div id="gauge"></div>
-      </div>
+      </div> -->
     </div>
-    <div id="scatter_school"></div>
-    <!-- Distance to School Section -->
-
+    <div id="scatter_school" class="container"></div>
+<hr>
     <!-- Distance to Station Section -->
-    <div class="row" style="margin-left: 50px; margin-right: 50px">
+    <div class="row" style="margin-top: 50px; margin-bottom: 50px; margin-left: 50px; margin-right: 50px">
       <div class="col-md-2">
         <div class="well">
-          <h5>Perth Train Stations:</h5>
+          <h4>Perth Train Stations</h4>
           <select id="selStation"></select>
         </div>
       </div>
-      <div class="col-md-5">
+      <!-- <div class="col-md-5">
         <div id="bar"></div>
       </div>
       <div class="col-md-5">
         <div id="gauge"></div>
-      </div>
+      </div> -->
     </div>
-    <div id="scatter_station"></div>
-
-<!-- ***********************TEST -->
-    <div id="test"></div>
-<!-- ***********************TEST -->
-
+    <div id="scatter_station" class="container"></div>
 
 
 
