@@ -25,8 +25,8 @@ The price of the properties per land area increases from around 1000($/m2) for p
 
 ![4-age_analysis](Images/age.png)
 
-3. What are the most expensive suburbs in Perth?
-Cottesloe is the most expensive suburb and Swanbourne is the second most expensive suburb when comparing the total price of dwellings sold between 2005 and 2020.
+4. What are the most expensive suburbs in Perth?
+**Cottesloe** is the most expensive suburb and **Swanbourne** is the second most expensive suburb when comparing the total price of dwellings sold between 2005 and 2020.
 
 ![5-suburb_analysis](Images/suburb.png)
 
