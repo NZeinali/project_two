@@ -39,15 +39,12 @@ The price of the properties per land area increases from around 1000($/m2) for p
 
 ![8-train](Images/train.png)
 
-    - median housing price per year
-    - median housing price per distance from CBD
-    - a geomap of the property prices in different suburbs
-    - estimate of changes in property prices and the total stock of housing in Perth and Melbourne
+5. A Leaflet map of the property prices in different suburbs is also provided that plots affordable suburbs (Price below $500,000 and Land Area between 500 and 750 m2) as well as expensive suburbs (Price over $2,000,000).
+![9-map](Images/map.png)
+   
 
 
-I have already found a csv file to start my analysis and will try to find another resource in csv or API format to be able to merge my data and get more appropriate information.
-
-This data analysis could be useful for real estate investors and industry, in general, to know the most potent locations for their investments.
+This data analysis report could be useful for real estate investors, home owners, home buyers, home loan providers and construction industry to find the most potent locations for their investment.
  
  
 
