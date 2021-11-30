@@ -20,6 +20,16 @@ The number of sold four bedroom properties increased from 2015 to 2018. The rati
 
 ![3-sold_three_four_bedrooms](Images/three_four_sold_2015_2020.png)
 
+3. How the age of the property affects the price?
+The price of the properties per land area increases from around 1000($/m2) for properties built before 1990s to around 1400($/m2) for properties built after 2015. 
+
+![4-age_analysis](Images/age.png)
+
+3. What are the most expensive suburbs in Perth?
+Cottesloe is the most expensive suburb and Swanbourne is the second most expensive suburb when comparing the total price of dwellings sold between 2005 and 2020.
+
+![5-suburb_analysis](Images/suburb.png)
+
 
     - median housing price per year
     - median housing price per distance from CBD
