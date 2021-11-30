@@ -1110,7 +1110,7 @@ d3.json("/distancejson")
       var layout = {
         xaxis: {
           dtick: 1000,
-          title: "Distance (km)",
+          title: "Distance (m)",
           range: [0, 6500],
         },
         yaxis: {

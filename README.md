@@ -30,6 +30,14 @@ The price of the properties per land area increases from around 1000($/m2) for p
 
 ![5-suburb_analysis](Images/suburb.png)
 
+5. How the distance to CBD, Schools and Train Stations influence the housing prices?
+
+
+![6-CBD](Images/CBD.png)
+
+![7-school](Images/school.png)
+
+![8-train](Images/train.png)
 
     - median housing price per year
     - median housing price per distance from CBD
