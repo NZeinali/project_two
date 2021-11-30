@@ -1,10 +1,12 @@
-# project_two
 
-# Perth and Melbourne Housing Markets
+# Perth Housing Market from 2005 to 2020
 
-In this project I will try to gather some data related to house markets and will do a comparison of property markets in Perth and Melbourne. 
+In this project, some data visualisations are presented in regards to Perth Metro Housing Market. 
 
-I will identify the most popular house styles based on parameters such as number of bedrooms, land size and suburbs.
+The most popular house styles are identified based on parameters such as number of bedrooms, land size, property age, distance to CBD and suburbs.
+
+![1-Logo](Images/bedrooms.png)
+
 
 Some of the following graphs could be created:
     - median housing price per year
